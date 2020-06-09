@@ -1,0 +1,51 @@
+---
+title: "Supplementary material"
+author: "Marc https://marctang.info"
+output:
+  html_document:
+    df_print: paged
+---
+
+For the paper: Tang, Marc and One-Soon Her. 2019. Insights on the Greenberg-Sanches-Slobin Generalization: Quantitative typological data on classifiers and plural markers. Folia Linguistica, 53(2): 297-331.      https://doi.org/10.1515/flin-2019-2013
+
+Load the data and packages
+```{r message=FALSE}
+set.seed(1)
+data<-read.csv("GSSG_ListOfLanguages.csv",sep=";")
+#str(plural_data)
+library(party)
+library(rms)
+```
+
+Generate the tree for Figure 2. Conditional inference tree with sortal classifiers as response variable and plural
+markers as explanatory variable.
+```{r}
+tree_Fig2<-ctree(sortal_classifier~morphosyntactic_plural,
+                 data=data,
+                 controls=ctree_control(testtype = "MonteCarlo",
+                                        minbucket=60,mincriterion = 0.99))
+plot(tree_Fig2)
+```
+
+Calcuate the C index of the tree
+```{r}
+performance_tree <- unlist(treeresponse(tree_Fig2))[c(FALSE,TRUE)]
+somers2(performance_tree,as.numeric(data$sortal_classifier)-1)
+```
+
+Generate the tree for figure 3. Conditional inference tree with sortal classifiers as response variable and morpho-
+syntactic plural markers, continent, genus as explanatory variables.
+```{r}
+tree_Fig3<-ctree(sortal_classifier~morphosyntactic_plural + continent + genus,
+                 data=data,
+                 controls=ctree_control(testtype = "MonteCarlo", 
+                                        minbucket=60,mincriterion = 0.99))
+plot(tree_Fig3)
+```
+
+Calculate the C index of the tree
+```{r}
+performance_tree <- unlist(treeresponse(tree_Fig3))[c(FALSE,TRUE)]
+somers2(performance_tree,as.numeric(data$sortal_classifier)-1)
+```
+
