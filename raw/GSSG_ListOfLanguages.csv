@@ -1,0 +1,401 @@
+language_name;sortal_classifier;morphosyntactic_plural;continent;genus;longitude;latitude;iso_code;wals_code;glottocode
+Alagwa;no;yes;Africa;Southern_Cushitic;35.75;-5.5;wbj;agw;alag1248
+Amharic;no;yes;Africa;Semitic;38;10;amh;amh;amha1245
+Arabic (Egyptian);no;yes;Africa;Semitic;31;30;arz;aeg;egyp1253
+Arabic (Kormakiti);no;yes;Asia;Semitic;33.5;35.25;acy;ako;cypr1248
+Arabic (Moroccan);no;yes;Africa;Semitic;-6;34;ary;amr;moro1292
+Arbore;no;yes;Africa;Eastern_Cushitic;36.75;5;arv;abo;arbo1245
+Dizi;no;yes;Africa;Dizoid;36.5;6.166666667;mdx;diz;dizi1235
+Guduf;no;yes;Africa;Biu_Mandara;13.8;11.23333333;gdf;gdf;gudu1252
+Hausa;no;yes;Africa;West_Chadic;7;12;hau;hau;haus1257
+Hebrew (Modern);no;yes;Asia;Semitic;34.83333333;31.5;heb;heb;hebr1245
+Iraqw;no;yes;Africa;Southern_Cushitic;35.5;-4;irk;irq;iraq1241
+Margi;no;yes;Africa;Biu_Mandara;13;11;mrt;mrg;marg1265
+Mbugu;no;yes;Africa;Southern_Cushitic;38.16666667;-4.333333333;mhd;mbg;mbug1240
+Miya;no;yes;Africa;West_Chadic;9.666666667;10.91666667;mkf;miy;miya1266
+Mupun;no;yes;Africa;West_Chadic;8.833333333;9.5;sur;mup;mwag1236
+Neo-Aramaic (Arbel Jewish);no;yes;Asia;Semitic;35;31.75;aij;naj;lish1245
+Ngizim;no;yes;Africa;West_Chadic;10.91666667;12.08333333;ngi;ngz;ngiz1242
+Oromo (Harar);no;yes;Africa;Eastern_Cushitic;42;9;hae;orh;east2652
+Tuareg (Ghat);no;yes;Africa;Berber;10.16666667;25;thv;tgh;taha1241
+Ainu;yes;no;Asia;Ainu;143;43;ain;ain;ainu1240
+Cree (Plains);no;yes;Americas;Algonquian;-110;54;crk;cre;plai1258
+Azerbaijani;yes;no;Asia;Turkic;48.5;40.5;azb;aze;sout2697
+Buriat;no;yes;Asia;Mongolic;108;52;bxm;but;mong1330
+Chuvash;no;yes;Europe;Turkic;47.5;55.5;chv;chv;chuv1255
+Evenki;no;yes;Asia;Tungusic;125;56;evn;eve;even1259
+Khalkha;no;yes;Asia;Mongolic;105;47;khk;kha;halh1238
+Nanai;no;yes;Asia;Tungusic;137;49.5;gld;nai;nana1257
+Tatar;yes;no;Europe;Turkic;49.5;56;tat;tvo;tata1255
+Turkish;yes;yes;Asia;Turkic;35;39;tur;tur;nucl1301
+Tuvan;no;yes;Asia;Turkic;95;52;tyv;tuv;tuvi1240
+Culina;no;yes;Americas;Arauan;-70.5;-6;cul;cul;culi1244
+Deni;no;yes;Americas;Arauan;-67;-6;dny;den;deni1241
+Jamamadi;no;yes;Americas;Arauan;-67;-7.5;jaa;jmm;jama1261
+Paumari;no;yes;Americas;Arauan;-64;-6;pad;pau;paum1247
+Mapudungun;no;no;Americas;Araucanian;-72;-38;arn;map;mapu1245
+Apurina;no;no;Americas;Purus;-67;-9;apu;apu;apur1254
+Arawak;no;no;Americas;Northern_Arawakan;-55.16666667;5.5;arw;ara;araw1276
+Baniwa;yes;no;Americas;Northern_Arawakan;-66.83333333;2.666666667;bwi;bnw;bani1255
+Bare;no;no;Americas;Northern_Arawakan;-67;1;bae;bae;bare1276
+Palikur;yes;no;Americas;Eastern_Arawakan;-51;3;plu;plk;pali1279
+Parecis;no;no;Americas;Central_Arawakan;-57;-14;pab;prc;pare1272
+Piro;no;no;Americas;Purus;-73.5;-11;pib;pir;yine1238
+Terena;no;no;Americas;Bolivia_Parana;-56;-20;ter;trn;tere1279
+Warekena;yes;no;Americas;Northern_Arawakan;-67.5;1.5;gae;wrk;guar1293
+Waura;no;no;Americas;Central_Arawakan;-53;-13;wau;wur;waur1244
+Atakapa;no;yes;Americas;Atakapa;-93.5;30;aqp;atk;atak1252
+Djingili;no;no;Pacific;West_Barkly;134;-17.75;jig;dji;djin1251
+Dyirbal;no;no;Pacific;Pama_Nyungan;145.5833333;-17.83333333;dbl;dyi;dyir1250
+Gaagudju;no;no;Pacific;Gaagudju;132.8333333;-12.58333333;gbu;gaa;gaga1251
+Garrwa;no;no;Pacific;Garrwan;137.1666667;-17.08333333;gbc;grr;gara1261
+Gooniyandi;no;no;Pacific;Bunuban;126.3333333;-18.33333333;gni;goo;goon1238
+Gunin;no;no;Pacific;Wororan;126.6666667;-14.25;gww;gnn;kwin1241
+Jaminjung;no;no;Pacific;Jaminjungan;130.5;-15.08333333;djd;jam;djam1255
+Malakmalak;no;no;Pacific;Northern_Daly;130.4166667;-13.41666667;mpb;mlk;mull1237
+Mangarrayi;no;no;Pacific;Mangarrayi;133.5;-14.66666667;mpc;myi;mang1381
+Martuthunira;no;no;Pacific;Pama_Nyungan;116.5;-20.83333333;vma;mrt;mart1255
+Maung;no;no;Pacific;Iwaidjan;133.5;-11.91666667;mph;mau;maun1240
+Ngarinyman;no;no;Pacific;Pama_Nyungan;130.5;-16.5;nbj;ngy;ngar1235
+Ngiyambaa;no;no;Pacific;Pama_Nyungan;145.5;-31.75;wyb;ngi;wang1291
+Nunggubuyu;no;no;Pacific;Nunggubuyu;135.6666667;-13.75;nuy;nug;nung1290
+Nyulnyul;no;no;Pacific;Nyulnyulan;122.8333333;-17;nyv;nyu;nyul1247
+Tiwi;no;no;Pacific;Tiwian;131;-11.5;tiw;tiw;tiwi1244
+Ungarinjin;no;no;Pacific;Wororan;126;-16.33333333;ung;ung;ngar1284
+Uradhi;no;no;Pacific;Pama_Nyungan;142.4166667;-11.91666667;urf;uhi;urad1239
+Warndarang;no;no;Pacific;Maran;135.5833333;-14.41666667;wnd;wrn;wand1263
+Wembawemba;no;no;Pacific;Pama_Nyungan;144;-35.33333333;;wem;
+Worora;no;no;Pacific;Wororan;124.6666667;-15.66666667;unp;wor;woro1255
+Yidiny;no;no;Pacific;Pama_Nyungan;145.75;-17;yii;yid;yidi1250
+Yingkarta;no;no;Pacific;Pama_Nyungan;114.8333333;-25.16666667;yia;yng;ying1247
+Yukulta;no;no;Pacific;Tangkic;138.8333333;-17.33333333;gcd;yuk;gang1267
+Jahai;yes;no;Asia;Aslian;101.5;5.75;jhi;jah;jeha1242
+Kharia;yes;no;Asia;Munda;84.33333333;22.5;khr;khr;khar1287
+Khmer;yes;no;Asia;Khmer;105;12.5;khm;khm;cent1989
+Khmu';yes;no;Asia;Palaung_Khmuic;102;21;kjg;kmu;khmu1256
+Korku;no;no;Asia;Munda;78.5;22.5;kfq;kku;kork1243
+Loven;yes;no;Asia;Bahnaric;106.3333333;15;lbo;lov;lave1248
+Mah Meri;yes;no;Asia;Aslian;101.5;2.833333333;mhe;mhm;besi1244
+Mlabri (Minor);yes;no;Asia;Palaung_Khmuic;101;18.5;mra;mlm;mlab1235
+Nicobarese (Car);yes;no;Asia;Nicobarese;93;9;caq;nca;carn1240
+Remo;yes;no;Asia;Munda;82;18;bfw;rem;bond1245
+Santali;yes;no;Asia;Munda;87;24.5;sat;stl;sant1410
+Semelai;yes;no;Asia;Aslian;103;3;sza;sml;seme1247
+Temiar;no;no;Asia;Aslian;101.5;5;tea;tmr;temi1246
+Vietnamese;yes;no;Asia;Viet_Muong;106.5;10.5;vie;vie;viet1252
+Alune;no;no;Asia;Central_Malayo_Polynesian;128.3333333;-3;alp;aln;alun1238
+Ambae (Lolovoli Northeast);no;no;Pacific;Oceanic;167.8833333;-15.41666667;omb;aml;east2443
+Amis;yes;no;Asia;East_Formosan;121.3333333;23.33333333;ami;ami;amis1246
+Arosi;no;no;Pacific;Oceanic;161.3333333;-10.25;aia;aro;aros1241
+Atayal;no;no;Asia;Atayalic;121.3333333;24.5;tay;ata;atay1247
+Bajau (Semporna);yes;no;Asia;Sama_Bajaw;118.5;4.5;ssb;bjs;sout2918
+Balinese;yes;no;Asia;Malayo_Sumbawan;115.25;-8.333333333;ban;bal;bali1278
+Batak (Karo);yes;no;Asia;Northwest_Sumatra_Barrier_Islands;98.25;3.25;btx;bkr;bata1293
+Begak-Ida'an;yes;no;Asia;North_Borneo;118.8333333;5.25;dbj;beg;idaa1241
+Biatah;yes;no;Asia;Land_Dayak;110;1.25;bth;bit;biat1246
+Cham (Eastern);yes;no;Asia;Malayo_Sumbawan;108.5;11.33333333;cjm;cme;east2563
+Cham (Western);yes;no;Asia;Malayo_Sumbawan;105.5;12;cja;chw;west2650
+Chamorro;no;yes;Pacific;Chamorro;144.75;13.45;cha;cha;cham1312
+Chuukese;yes;no;Pacific;Oceanic;151.75;7.333333333;chk;cuu;chuu1238
+Dobel;yes;no;Asia;Central_Malayo_Polynesian;134.6666667;-6.25;kvo;dob;dobe1238
+Drehu;no;no;Pacific;Oceanic;167.25;-21;dhv;dre;dehu1237
+Erromangan;no;no;Pacific;Oceanic;169.1666667;-18.83333333;erg;err;siee1239
+Fijian;no;no;Pacific;Oceanic;178;-17.83333333;fij;fij;fiji1243
+Futuna-Aniwa;no;yes;Pacific;Oceanic;170.2166667;-19.53333333;fut;fut;futu1245
+Hawaiian;no;no;Americas;Oceanic;-155.5;19.58333333;haw;haw;hawa1245
+Iaai;no;no;Pacific;Oceanic;166.5833333;-20.41666667;iai;iaa;iaai1238
+Indonesian;yes;no;Asia;Malayo_Sumbawan;106;0;ind;ind;indo1316
+Javanese;yes;no;Asia;Javanese;111;-7;jav;jav;java1254
+Kambera;yes;no;Asia;Central_Malayo_Polynesian;120.1666667;-9.833333333;xbr;kam;kamb1299
+Kayan (Baram);yes;no;Asia;North_Borneo;114.5;3.5;kys;kbr;bara1370
+Kayu Agung;yes;no;Asia;Lampungic;104.9166667;-3.166666667;kge;kag;kome1238
+Ke'o;yes;no;Asia;Central_Malayo_Polynesian;121.25;-8.833333333;xxk;keo;keoo1238
+Kei;yes;no;Asia;Central_Malayo_Polynesian;132.9166667;-5.833333333;kei;kei;keii1239
+Kelabit;no;no;Asia;North_Borneo;115.4166667;3.666666667;kzi;klt;kela1258
+Kenyah (Uma' Lung);yes;no;Africa;North_Borneo;115.8333333;3;;keu;
+Ketapang;yes;no;Asia;Malayo_Sumbawan;110;-1.866666667;zlm;ktp;mala1479
+Kilivila;yes;no;Pacific;Oceanic;151.0833333;-8.5;kij;klv;kili1267
+Kiribati;yes;no;Pacific;Oceanic;173;1.333333333;gil;krb;gilb1244
+Kosraean;yes;no;Pacific;Oceanic;163;5.3;kos;kos;kosr1238
+Larike;yes;no;Asia;Central_Malayo_Polynesian;127.9166667;-3.75;alo;lrk;lari1255
+Leti;no;no;Asia;Central_Malayo_Polynesian;127.6666667;-8.2;lti;let;leti1246
+Loniu;yes;no;Pacific;Oceanic;147.3333333;-2.066666667;los;lon;loni1238
+Lun Dayeh;yes;no;Asia;North_Borneo;115.9166667;4;lnd;lud;lund1271
+Makassar;yes;no;Asia;South_Sulawesi;119.5833333;-5.416666667;mak;mks;maka1311
+Malagasy;no;no;Africa;Barito;47;-20;plt;mal;plat1254
+Mandar;yes;no;Asia;South_Sulawesi;119.0833333;-3.416666667;mdr;mnr;mand1442
+Melanau;yes;no;Asia;North_Borneo;111.5;2.5;mel;mel;cent2101
+Minangkabau;yes;no;Asia;Malayo_Sumbawan;101;-1;min;min;mina1268
+Mokilese;yes;no;Pacific;Oceanic;159.75;6.666666667;mkj;mok;moki1238
+Napu;yes;no;Asia;Celebic;120.4166667;-1.333333333;npy;npu;napu1241
+Narom;yes;no;Asia;North_Borneo;114;4.416666667;nrm;nrm;naro1251
+Nauruan;yes;no;Pacific;Oceanic;166.9166667;-0.5;nau;nau;naur1243
+Nelemwa;yes;no;Pacific;Oceanic;164.0833333;-20.25;nee;nel;kuma1276
+Ngad'a;yes;no;Asia;Central_Malayo_Polynesian;121;-8.833333333;nxg;ngd;ngad1261
+Nyelayu;yes;no;Pacific;Oceanic;164.3333333;-20.33333333;yly;nyl;nyal1254
+Padoe;yes;no;Asia;Celebic;121.3333333;-2.333333333;pdo;pad;pado1242
+Pileni;yes;no;Pacific;Oceanic;166.2166667;-10.21666667;piv;pil;pile1238
+Pohnpeian;yes;no;Pacific;Oceanic;158.25;6.883333333;pon;poh;pohn1238
+Rapanui;no;no;Americas;Oceanic;-109.3666667;-27.11666667;rap;rap;rapa1244
+Rukai (Tanan);no;no;Asia;Rukai;120.8333333;22.83333333;dru;ruk;ruka1240
+Samoan;yes;no;Pacific;Oceanic;-171.8333333;-13.91666667;smo;sam;samo1305
+Sawu;yes;no;Asia;Central_Malayo_Polynesian;121.9166667;-11.5;hvn;saw;sabu1255
+Seediq;no;no;Asia;Atayalic;121.4166667;24.16666667;trv;see;taro1264
+Semandang;yes;no;Pacific;Land_Dayak;110.4166667;-0.416666667;;kua;
+Semandang;yes;no;Asia;Land_Dayak;110.5;-0.75;sdm;smd;sema1269
+Simeulue;yes;no;Asia;Northwest_Sumatra_Barrier_Islands;96.25;2.5;smr;sim;sime1241
+Taba;yes;no;Asia;South_Halmahera_West_New_Guinea;127.5;0;mky;tab;east2440
+Tagalog;no;yes;Asia;Greater_Central_Philippine;121;15;tgl;tag;taga1270
+Tawala;no;no;Pacific;Oceanic;150.6666667;-10.33333333;tbo;taw;tawa1275
+Tetun;yes;no;Asia;Central_Malayo_Polynesian;126;-9;tet;ttn;tetu1245
+Timugon;no;yes;Asia;North_Borneo;116;5;tih;tim;timu1262
+Tolai;no;no;Pacific;Oceanic;152.0833333;-4.25;ksd;tla;kuan1248
+Tongan;yes;no;Pacific;Oceanic;-175.1666667;-21.16666667;ton;tng;tong1325
+Toqabaqita;yes;no;Pacific;Oceanic;160.5833333;-8.416666667;mlu;toq;toab1237
+Tsou;yes;no;Asia;Tsou;120.75;23.5;tsu;tso;tsou1248
+Tukang Besi;yes;no;Asia;Celebic;123.5;-5.5;bhq;tuk;tuka1247
+Tuvaluan;no;no;Pacific;Oceanic;179.1666667;-8.5;tvl;tvl;tuva1244
+Ulithian;yes;no;Pacific;Oceanic;139.5833333;9.916666667;uli;uli;ulit1238
+Ura;no;no;Pacific;Oceanic;169.0833333;-18.66666667;uur;ura;urav1235
+Yami;no;no;Asia;Batanic;121.5;22;tao;ymi;yami1254
+Yapese;yes;no;Pacific;Yapese;138.1666667;9.583333333;yap;yap;yape1248
+Jaqaru;no;no;Americas;Aymaran;-76;-13;jqr;jaq;jaqa1244
+Mali;no;no;Pacific;Baining;152.25;-4.833333333;gcc;mli;mali1284
+Taulil;no;no;Pacific;Taulil;152.0833333;-4.416666667;tuh;tll;taul1251
+Basque;no;yes;Europe;Basque;-3;43;eus;bsq;basq1248
+Imonda;no;yes;Pacific;Border;141.1666667;-3.333333333;imn;imo;imon1245
+Burushaski;no;yes;Asia;Burushaski;74.5;36.5;bsk;bur;buru1296
+Pawnee;no;yes;Americas;Caddoan;-98.66666667;41;paw;pwn;pawn1254
+Chayahuita;yes;no;Americas;Cahuapanan;-77;-5.5;cbt;chy;chay1248
+Hixkaryana;no;no;Americas;Cariban;-59;-1;hix;hix;hixk1239
+Panare;no;no;Americas;Cariban;-66;6.5;pbh;pnr;enap1235
+Cayuvava;no;yes;Americas;Cayuvava;-65.5;-13.5;cyb;cyv;cayu1262
+Wari';no;no;Americas;Chapacura_Wanham;-65;-11.33333333;pav;war;wari1268
+Ika;no;no;Americas;Aruak;-73.75;10.66666667;arh;ika;arhu1242
+Muisca;no;no;Americas;Chibchan_Proper;-74;5;chb;msc;chib1270
+Teribe;yes;no;Americas;Talamanca;-82.66666667;9.333333333;tfr;trb;teri1250
+Quileute;no;no;Americas;Chimakuan;-124.25;47.91666667;qui;qui;quil1240
+Chitimacha;no;no;Americas;Chitimacha;-91;29.66666667;ctm;ctm;chit1248
+Epena Pedee;no;yes;Americas;Choco;-77;3;sja;epe;epen1239
+Chukchi;no;no;Asia;Northern_Chukotko_Kamchatkan;-173;67;ckt;chk;chuk1273
+Chumash (Barbare_o);no;no;Americas;Chumash;-120.25;34.5;boi;cba;barb1263
+Chumash (Ineseno);no;no;Americas;Chumash;-120.25;34.66666667;inz;cin;ines1240
+Brahui;no;no;Asia;Northern_Dravidian;67;28.5;brh;brh;brah1256
+Kannada;no;no;Asia;Southern_Dravidian;76;14;kan;knd;nucl1305
+Kota;no;no;Asia;Southern_Dravidian;77.16666667;11.5;kfe;kot;kota1263
+Malayalam;no;no;Asia;Southern_Dravidian;76.5;10;mal;mym;mala1464
+Nasioi;no;yes;Pacific;East_Bougainville;155.5833333;-6.333333333;nas;nas;naas1242
+Toba;no;no;Americas;Guaicuruan;-59;-26.5;tob;tob;toba1269
+Haida;yes;no;Americas;Haida;-132;53;hdn;hai;haid1248
+Amarakaeri;no;no;Americas;Harakmbet;-70.5;-12.5;amr;amk;amar1274
+Hmong Daw;yes;no;Asia;Hmong_Mien;105;26;mww;hmd;hmon1333
+Chimariko;no;no;Americas;Chimariko;-123;41;cid;chi;chim1301
+Maricopa;no;yes;Americas;Yuman;-113.1666667;33.16666667;mrc;mar;mari1440
+Shasta;no;yes;Americas;Shasta;-122.6666667;41.83333333;sht;shs;shas1239
+Bora;no;yes;Americas;Boran;-72.33333333;-2.166666667;boa;bor;bora1263
+Ocaina;no;yes;Americas;Huitoto;-71.75;-2.75;oca;oca;ocai1244
+Albanian;no;yes;Europe;Albanian;20;41;aln;alb;gheg1238
+Armenian (Eastern);no;yes;Asia;Armenian;45;40;hye;arm;nucl1235
+Armenian (Iranian);yes;yes;Asia;Armenian;51.66666667;32.66666667;;arz;nucl1235
+Assamese;yes;no;Asia;Indic;93;26;asm;ass;assa1263
+Bengali;yes;no;Asia;Indic;90;24;ben;ben;beng1280
+Bulgarian;no;yes;Europe;Slavic;25;42.5;bul;bul;bulg1262
+English;no;yes;Americas;Germanic;0;52;eng;eng;stan1293
+French;no;yes;Europe;Romance;2;48;fra;fre;stan1290
+German;no;yes;Europe;Germanic;10;52;deu;ger;stan1295
+Gilaki;yes;no;Asia;Iranian;50;37.33333333;glk;gil;gila1241
+Hindi;no;yes;Asia;Indic;77;25;hin;hin;hind1269
+Latvian;no;yes;Europe;Baltic;24;57;lav;lat;latv1249
+Luri;yes;no;Asia;Iranian;48.5;33.5;lrc;lur;nort2645
+Marathi;no;yes;Asia;Indic;76;19;mar;mhi;mara1378
+Mazanderani;yes;no;Asia;Iranian;52;36.5;mzn;mzn;maza1291
+Persian;yes;yes;Asia;Iranian;54;32;pes;prs;west2369
+Romani (Sepecides);no;yes;Europe;Indic;27;38.25;;rse;
+Russian;no;yes;Europe;Slavic;38;56;rus;rus;russ1263
+Sinhala;no;yes;Asia;Indic;80.5;7;sin;snh;sinh1246
+Tati (Southern);yes;no;Asia;Iranian;49.66666667;36;tks;tts;take1255
+Vafsi;yes;no;Asia;Iranian;49.91666667;34.66666667;vaf;vaf;vafs1240
+Waigali;no;yes;Asia;Indic;71.25;35;wbk;wgl;waig1243
+Seneca;no;no;Americas;Northern_Iroquoian;-77.5;42.5;see;snc;sene1264
+Japanese;yes;no;Asia;Japanese;140;37;jpn;jpn;nucl1643
+Jivaro;no;no;Americas;Jivaroan;-78;-2.5;jiv;jiv;shua1257
+Kalapuya;no;no;Americas;Kalapuyan;-123;44.5;kyl;klp;kala1400
+Karok;no;no;Americas;Karok;-123;41.66666667;kyh;krk;karo1304
+Georgian;no;yes;Asia;Kartvelian;44;42;kat;geo;nucl1302
+Acoma;no;yes;Americas;Keresan;-107.5833333;34.91666667;kjq;aco;west2632
+/Xam;no;yes;Africa;Southern_Khoisan;21;-31;xam;xam;xamm1241
+Ju|'hoan;no;yes;Africa;Northern_Khoisan;21;-19;ktz;juh;juho1239
+Khoekhoe;no;yes;Africa;Central_Khoisan;18;-25.5;naq;kho;nama1264
+Sandawe;no;yes;Africa;Sandawe;35;-5;sad;sdw;sand1273
+Xoo;no;yes;Africa;Southern_Khoisan;21.5;-24;nmn;xoo;xooo1239
+Kiowa;no;yes;Americas;Kiowa_Tanoan;-99;37;kio;kio;kiow1266
+Kiwai;no;yes;Pacific;Kiwaian;143.5;-8;kiw;kiw;nort2930
+Korean;yes;no;Asia;Korean;128;37.5;kor;kor;kore1280
+Kutenai;no;no;Americas;Kutenai;-116;49.5;kut;kut;kute1249
+Kwaza;no;no;Americas;Kwaza;-60.66666667;-12.58333333;xwa;kwz;kwaz1243
+Yimas;no;no;Pacific;Lower_Sepik;143.55;-4.666666667;yee;yim;yima1243
+Canela-Krah_;no;no;Americas;Ge_Kaingang;-46;-6;ram;ckr;cane1242
+Maku;no;no;Americas;Maku;-69.83333333;0.416666667;;mkw;maku1246
+Jakaltek;yes;no;Americas;Mayan;-91.66666667;15.66666667;jac;jak;popt1235
+Tzeltal;yes;no;Americas;Mayan;-92.25;16.83333333;tzb;tze;tzel1253
+Yucatec;yes;no;Americas;Mayan;-89;20;yua;yct;yuca1254
+Miskito;no;no;Americas;Misumalpan;-83.66666667;14;miq;mis;misk1235
+Moset_n;no;no;Americas;Mosetenan;-67.83333333;-14.75;cas;mos;mose1249
+Piraha;no;no;Americas;Mura;-62;-7;myp;prh;pira1253
+Choctaw;no;no;Americas;Muskogean;-88.5;32.25;cho;cct;choc1276
+Carrier;no;yes;Americas;Athapaskan;-123.5;53.75;crx;crq;carr1249
+Eyak;yes;no;Americas;Eyak;-145;60.5;eya;eya;eyak1241
+Navajo;no;no;Americas;Athapaskan;-108;36.16666667;nav;nav;nava1243
+Tlingit;no;yes;Americas;Tlingit;-135;59;tli;tli;tlin1245
+Hup;no;no;Americas;Nadahup;-69.25;0.166666667;jup;hpd;hupd1244
+Nahali;no;no;Asia;Nahali;77.83333333;19.75;nll;nah;niha1238
+Avar;no;yes;Europe;Avar_Andic_Tsezic;46.5;42.5;ava;ava;avar1256
+Bagvalal;no;yes;Europe;Avar_Andic_Tsezic;46.16666667;42.58333333;kva;bgv;bagv1239
+Chechen;no;yes;Europe;Nakh;45.83333333;43.25;che;chc;chec1245
+Dargwa;no;yes;Europe;Lak_Dargwa;47.41666667;42.25;dar;drg;darg1241
+Hunzib;no;yes;Europe;Avar_Andic_Tsezic;46.25;42.16666667;huz;hzb;hunz1247
+Ingush;no;yes;Europe;Nakh;45.08333333;43.16666667;inh;ing;ingu1240
+Lezgian;no;yes;Europe;Lezgic;47.83333333;41.66666667;lez;lez;lezg1247
+Boko;no;yes;Africa;Eastern_Mande;3.5;10.5;bqc;bok;boko1266
+Dagaare;no;yes;Africa;Gur;-2.666666667;10.5;dga;dga;sout2789
+Fula (Mauritanian);no;yes;Africa;Northern_Atlantic;-13.75;16.5;fuc;fma;pula1263
+Gbeya Bossangoa;no;yes;Africa;Gbaya_Manza_Ngbaka;17.5;6.666666667;gbp;gbb;gbay1287
+Igbo;no;yes;Africa;Igboid;7.333333333;6;ibo;igb;nucl1417
+Kana;yes;no;Africa;Cross_River;7.416666667;4.75;ogo;kan;khan1278
+Koromfe;no;yes;Africa;Gur;-0.916666667;14.25;kfz;kfe;koro1298
+Kpelle;no;yes;Africa;Western_Mande;-10;7;xpe;kpe;libe1247
+Lucazi;no;yes;Africa;Bantoid;20;-14;lch;luc;luch1239
+Luganda;no;yes;Africa;Bantoid;32.16666667;0.5;lug;lda;gand1255
+Mandinka;no;yes;Africa;Western_Mande;-15.66666667;13;mnk;mdk;mand1436
+Mende;no;yes;Africa;Western_Mande;-11.5;7.833333333;men;mde;mend1266
+Mituku;no;yes;Africa;Bantoid;25.5;-1.666666667;zmq;mit;mitu1240
+Orig;no;yes;Africa;Rashad;30.83333333;12.16666667;ras;ori;tega1236
+Runyoro-Rutooro;no;yes;Africa;Bantoid;31.33333333;1.5;nyo;rru;nyor1246
+Sesotho;no;yes;Africa;Bantoid;27;-28;sot;ses;sout2807
+Supyire;no;yes;Africa;Gur;-5.583333333;11.5;spp;sup;supy1237
+Swahili;no;yes;Africa;Bantoid;39;-6.5;swh;swa;swah1253
+Swati;no;yes;Africa;Bantoid;31;-26.5;ssw;swt;swat1243
+Toussian (Win);yes;no;Africa;Gur;-4.666666667;10.83333333;wib;tow;sout2797
+Tunen;no;yes;Africa;Bantoid;10.66666667;4.75;baz;tnn;tune1241
+Yoruba;no;yes;Africa;Defoid;4.333333333;8;yor;yor;yoru1245
+Zulu;no;yes;Africa;Bantoid;30;-30;zul;zul;zulu1248
+Datooga;no;yes;Africa;Nilotic;35.33333333;-4.333333333;tcc;dat;dato1239
+Fur;no;yes;Africa;Fur;25;13.5;fvr;fur;furr1244
+Kanuri;no;no;Africa;Western_Saharan;13;12;knc;knr;cent2050
+Koyra Chiini;no;no;Africa;Songhay;-3;17;khq;kch;koyr1240
+Lango;no;no;Africa;Nilotic;33;2.166666667;laj;lan;lang1324
+Lugbara;no;no;Africa;Moru_Madi;30.91666667;3.083333333;lgg;lug;lugb1240
+Luo;no;no;Africa;Nilotic;34.75;-0.5;luo;luo;luok1236
+Maasai;no;no;Africa;Nilotic;36;-3;mas;maa;masa1300
+Me'en;no;no;Africa;Surmic;37;5;mym;mee;meen1242
+Nara (in Ethiopia);no;no;Africa;Nara;37.58333333;15.08333333;nrb;nar;nara1262
+Nubian (Dongolese);no;no;Africa;Nubian;30.75;18.25;kzh;nbd;kenu1236
+So;no;no;Africa;Kuliak;34.75;2.583333333;teu;so;sooo1256
+Nivkh;yes;no;Asia;Nivkh;142;53.33333333;niv;niv;gily1242
+Nivkh (South Sakhalin);yes;no;Asia;Nivkh;142.5;47;niv;nvs;gily1242
+Abkhaz;no;yes;Asia;Northwest_Caucasian;41;43.08333333;abk;abk;abkh1244
+Coos (Hanis);no;no;Americas;Coosan;-124.1666667;43.5;csz;coo;coos1249
+Siuslaw;no;no;Americas;Siuslawan;-124;44;sis;siu;sius1254
+Ndyuka;no;no;Americas;Creoles_and_Pidgins;-54.5;4.5;djk;ndy;ndyu1242
+Russian-Chinese Pidgin (Birobidjan);no;no;Asia;Creoles_and_Pidgins;132.95;48.8;;rcp;
+Chichimeca-Jonaz;no;yes;Americas;Chichimec;-100.5;21.66666667;pei;cjo;chic1272
+Mixtec (Chalcatongo);no;yes;Americas;Mixtecan;-97.58333333;17.05;mig;mxc;sanm1295
+Capanahua;no;yes;Americas;Panoan;-74;-7;kaq;cap;capa1241
+Shipibo-Konibo;no;yes;Americas;Panoan;-75;-7.5;shp;shk;ship1254
+Yagua;yes;no;Americas;Peba_Yaguan;-72;-3.5;yad;yag;yagu1244
+Chinook (Upper);no;no;Americas;Chinookan;-122.5;45.5;wac;cku;wasc1239
+Klamath;no;no;Americas;Klamath_Modoc;-121.5;42.5;kla;klm;klam1254
+Maidu (Northeast);no;no;Americas;Maiduan;-120.6666667;40;nmu;mne;nort2952
+Miwok (Southern Sierra);no;no;Americas;Miwok;-120;37.5;skd;mss;sout2985
+Molala;no;no;Americas;Molala;-122.5;44.5;mbe;mll;mola1238
+Tsimshian (Coast);no;no;Americas;Tsimshianic;-129;52.5;tsi;tsi;nucl1649
+Wintu;no;no;Americas;Wintuan;-122.5;41;wit;win;wint1259
+Yawelmani;no;no;Americas;Yokuts;-119;35.41666667;yok;ywl;yoku1256
+Quechua (Cuzco);no;yes;Americas;Quechuan;-71;-14.5;quz;qcu;cusc1236
+Quechua (Huallaga);no;yes;Americas;Quechuan;-75.5;-9.5;qvh;qhu;huam1248
+Quechua (Imbabura);no;yes;Americas;Quechuan;-78;0.333333333;qvi;qim;imba1240
+Piaroa;no;no;Americas;Piaroa;-67;5;pid;pia;piar1243
+Salinan;no;no;Americas;Salinan;-121;36;sln;sal;sali1253
+Thompson;yes;no;Americas;Interior_Salish;-121.75;49.75;thp;tho;thom1243
+Sentani;no;no;Asia;Sentani;140.5833333;-2.583333333;set;snt;nucl1632
+Alamblak;no;no;Pacific;Sepik_Hill;143.3333333;-4.666666667;amp;ala;alam1246
+Ambulas;no;no;Pacific;Middle_Sepik;143;-3.833333333;abt;amb;ambu1247
+Awtuw;no;no;Pacific;Ram;142;-3.583333333;kmn;awt;awtu1239
+Yessan-Mayo;no;no;Pacific;Tama_Sepik;142.5833333;-4.166666667;yss;yes;yess1239
+Athpare;yes;no;Asia;Mahakiranti;87.33333333;27;aph;ath;athp1241
+Baragaunle;no;no;Asia;Bodic;83.83333333;28.83333333;loy;brl;lowa1242
+Belhare;yes;no;Asia;Mahakiranti;87.3;26.96666667;byw;bel;belh1239
+Burmese;yes;no;Asia;Burmese_Lolo;96;21;mya;brm;nucl1310
+Cantonese;yes;no;Asia;Chinese;113;23;yue;cnt;yuec1235
+Chantyal;yes;no;Asia;Bodic;83.41666667;28.58333333;chx;chn;chan1310
+Chepang;no;no;Asia;Mahakiranti;84.75;27.66666667;cdm;cpn;chep1245
+Garo;yes;no;Asia;Bodo_Garo;90.5;25.66666667;grt;gar;garo1247
+Hokkien;yes;no;Asia;Chinese;118;25;nan;hok;minn1241
+Hyow;yes;no;Asia;Kuki_Chin;92.41666667;22.08333333;csh;hyo;asho1236
+Kayah Li (Eastern);yes;no;Asia;Karen;97.5;19;eky;kyl;east2342
+Kham;yes;no;Asia;Mahakiranti;82.75;28.5;kgj;kmh;gama1251
+Khumi;yes;no;Asia;Kuki_Chin;92.41666667;21.91666667;cnk;khu;khum1248
+Lahu;yes;no;Asia;Burmese_Lolo;98.16666667;20;lhu;lah;lahu1253
+Lai;yes;no;Asia;Kuki_Chin;93.66666667;22.66666667;cnh;lai;haka1240
+Limbu;no;yes;Asia;Mahakiranti;87.75;27.16666667;lif;lim;limb1266
+Magar (Syangja);no;no;Asia;Mahakiranti;83.83333333;28.08333333;mrd;msy;west2418
+Mandarin;yes;no;Asia;Chinese;110;34;cmn;mnd;mand1415
+Newari (Kathmandu);yes;no;Asia;Mahakiranti;85.5;27.66666667;new;new;newa1246
+Lakhota;no;yes;Americas;Siouan;-101.8333333;43.83333333;lkt;lkt;lako1247
+Mandan;no;no;Americas;Siouan;-102.5;46.5;mhq;mdn;mand1446
+Dumo;no;no;Pacific;Western_Skou;141.3;-2.683333333;vam;dum;vani1248
+Sulka;no;no;Pacific;Sulka;151.9166667;-5.083333333;sua;sul;sulk1246
+Lachi;yes;no;Asia;Kadai;104.8333333;22.66666667;lbt;lch;lach1248
+Thai;yes;no;Asia;Kam_Tai;101;16;tha;tha;thai1261
+Takelma;no;no;Americas;Takelma;-123;42.5;tkm;tkl;take1257
+Purepecha;yes;no;Americas;Tarascan;-101.6666667;19.5;tsz;pur;pure1242
+Chontal (Huamelultec Oaxaca);no;yes;Americas;Tequistlatecan;-95.75;16;clo;chx;lowl1260
+Tol;no;yes;Americas;Tol;-87;14.66666667;jic;tol;toll1241
+Tonkawa;no;yes;Americas;Tonkawa;-96.75;30.25;tqw;ton;tonk1249
+Totonac (Papantla);yes;no;Americas;Totonacan;-97.33333333;20.33333333;top;tpa;papa1238
+Amele;no;no;Pacific;Madang;145.5833333;-5.25;aey;ame;amel1241
+Hua;no;no;Pacific;Eastern_Highlands;145.3333333;-6.333333333;ygr;hua;yaga1260
+Kate;no;no;Pacific;Finisterre_Huon;147.75;-6.5;kmg;kat;kate1253
+Kewa;no;no;Pacific;Engan;143.8333333;-6.5;kew;kew;kewa1250
+Kobon;no;no;Pacific;Madang;144.3333333;-5.166666667;kpw;kob;kobo1249
+Koiari;no;no;Pacific;Koiarian;147.3333333;-9.5;kbk;koi;gras1249
+Kombai;no;no;Asia;Awju_Dumut;140;-5.583333333;tyn;kmb;ndei1235
+Korafe;no;no;Pacific;Binanderean;149.0833333;-9.05;kpr;krf;kora1294
+Salt-Yui;no;no;Pacific;Chimbu;145.0333333;-6.283333333;sll;syu;salt1242
+Suena;no;no;Pacific;Binanderean;147.55;-7.75;sue;sue;suen1241
+Telefol;no;no;Pacific;Ok;141.75;-5;tlf;tlf;tele1256
+Orejon;no;yes;Americas;Tucanoan;-72.5;-2.833333333;ore;ore;orej1242
+Siona;no;yes;Americas;Tucanoan;-76.25;0.333333333;snn;sin;sion1247
+Tucano;no;yes;Americas;Tucanoan;-69.16666667;0.5;tuo;tuc;tuca1252
+Tuyuca;no;yes;Americas;Tucanoan;-70.08333333;0.5;tue;tuy;tuyu1244
+Tunica;no;no;Americas;Tunica;-91;32.66666667;tun;tun;tuni1252
+Gaviao;no;no;Americas;Monde;-62;-10.66666667;gvo;gav;gavi1246
+Guarani;no;no;Americas;Tupi_Guaran_;-56;-26;gug;gua;para1311
+Munduruku;no;no;Americas;Munduruku;-58;-7;myu;muu;mund1330
+Finnish;no;yes;Europe;Finnic;25;62;fin;fin;finn1318
+Hungarian;yes;yes;Europe;Ugric;20;47;hun;hun;hung1274
+Komi-Zyrian;no;yes;Europe;Permic;55;65;kpv;kzy;komi1268
+Mordvin (Erzya);no;yes;Europe;Mordvin;45.5;53;myv;moe;erzy1239
+Nenets;no;yes;Asia;Samoyedic;72;69;yrk;nen;nene1249
+Luiseno;no;yes;Americas;Takic;-117.1666667;33.33333333;lui;lui;luis1253
+Nahuatl (Tetelcingo);no;no;Americas;Aztecan;-99;19.66666667;nhg;nht;tete1251
+O'odham;no;yes;Americas;Tepiman;-112;32;ood;ood;toho1245
+Paiute (Northern);no;yes;Americas;Numic;-118;42;pao;pno;nort2954
+Paiute (Southern);no;yes;Americas;Numic;-113.3333333;37.83333333;ute;put;utes1238
+Pima Bajo;no;yes;Americas;Tepiman;-111;29;pia;pba;pima1248
+Pipil;no;yes;Americas;Aztecan;-89.58333333;13.83333333;ppl;pip;pipi1250
+Tepehuan (Southeastern);no;no;Americas;Tepiman;-104.5;23;stp;tps;sout2976
+Waorani;no;no;Americas;Waorani;-76.5;-1;auc;wao;waor1240
+Wappo;no;no;Americas;Wappo;-122.5;38.5;wao;wap;wapp1239
+Washo;no;yes;Americas;Washo;-120;39.25;was;was;wash1253
+Konua;no;no;Pacific;West_Bougainville;154.8333333;-5.833333333;kyx;knu;rapo1238
+Abun;yes;no;Asia;North_Central_Birds_Head;132.5;-0.5;kgr;abu;abun1252
+Hatam;yes;no;Asia;Hatam;134;-1;had;hat;hata1243
+Maybrat;yes;no;Asia;North_Central_Birds_Head;132.5;-1.333333333;ayz;may;maib1239
+Tehit;yes;no;Asia;West_Birds_Head;132;-1.5;kps;tht;tehi1237
+Tidore;yes;no;Asia;North_Halmaheran;127.5;0.75;tvo;tid;tido1248
+Sanuma;no;no;Americas;Yanomam;-64.66666667;4.5;xsu;snm;sanu1240
+Yuchi;no;no;Americas;Yuchi;-86.75;35.75;yuc;yuc;yuch1247
+Yukaghir (Kolyma);no;yes;Asia;Yukaghir;150.8333333;65.75;yux;yko;sout2750
+Arabela;no;no;Americas;Zaparoan;-75.16666667;-2;arl;arb;arab1268
+Zuni;no;yes;Americas;Zuni;-108.8333333;35.08333333;zun;zun;zuni1245
