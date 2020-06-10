@@ -1,0 +1,21 @@
+{
+    "title": "CLDF dataset derived from Tang and Her's \"Quantitative typological data on classifiers and plural markers\" from 2019 ",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Marc Tang"
+        }    
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        }    
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Tang, Marc and One-Soon Her. 2019. Insights on the Greenberg-Sanches-Slobin Generalization: Quantitative typological data on classifiers and plural markers. Folia Linguistica, 53(2): 297-331. https://doi.org/10.1515/flin-2019-2013</p>\n</blockquote>"
+}
