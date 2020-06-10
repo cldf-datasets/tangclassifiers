@@ -10,11 +10,11 @@ raw_data = Path(__file__).parent.joinpath('raw')
 parametertable = [
         {
             'ID': 'sortalclassifier', 'Name': 'sortal classifier', 'Description':
-            'Sortal classifer +++ add description.'
+            'Does the language have sortal classifiers, regardless of optional of obligatory.'
             },
         {
             'ID': 'morphosyntacticplural', 'Name': 'morphosyntactic plural', 'Description':
-            '+++ add description.'
+            'Does the language have morphosyntactic plural markers.'
             }]
 
 # fill tables with values

@@ -1,112 +1,152 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
+Xam,/Xam,,-31,21,xamm1241,xam
+Abkhaz,Abkhaz,,43.08333333,41,abkh1244,abk
+Abun,Abun,,-0.5,132.5,abun1252,kgr
+Acoma,Acoma,,34.91666667,-107.5833333,west2632,kjq
+Ainu,Ainu,,43,143,ainu1240,ain
 Alagwa,Alagwa,,-5.5,35.75,alag1248,wbj
+Alamblak,Alamblak,,-4.666666667,143.3333333,alam1246,amp
+Albanian,Albanian,,41,20,gheg1238,aln
+Alune,Alune,,-3,128.3333333,alun1238,alp
+Amarakaeri,Amarakaeri,,-12.5,-70.5,amar1274,amr
+AmbaeLolovoliNortheast,Ambae (Lolovoli Northeast),,-15.41666667,167.8833333,east2443,omb
+Ambulas,Ambulas,,-3.833333333,143,ambu1247,abt
+Amele,Amele,,-5.25,145.5833333,amel1241,aey
 Amharic,Amharic,,10,38,amha1245,amh
+Amis,Amis,,23.33333333,121.3333333,amis1246,ami
+Apurina,Apurina,,-9,-67,apur1254,apu
+Arabela,Arabela,,-2,-75.16666667,arab1268,arl
 ArabicEgyptian,Arabic (Egyptian),,30,31,egyp1253,arz
 ArabicKormakiti,Arabic (Kormakiti),,35.25,33.5,cypr1248,acy
 ArabicMoroccan,Arabic (Moroccan),,34,-6,moro1292,ary
-Arbore,Arbore,,5,36.75,arbo1245,arv
-Dizi,Dizi,,6.166666667,36.5,dizi1235,mdx
-Guduf,Guduf,,11.23333333,13.8,gudu1252,gdf
-Hausa,Hausa,,12,7,haus1257,hau
-HebrewModern,Hebrew (Modern),,31.5,34.83333333,hebr1245,heb
-Iraqw,Iraqw,,-4,35.5,iraq1241,irk
-Margi,Margi,,11,13,marg1265,mrt
-Mbugu,Mbugu,,-4.333333333,38.16666667,mbug1240,mhd
-Miya,Miya,,10.91666667,9.666666667,miya1266,mkf
-Mupun,Mupun,,9.5,8.833333333,mwag1236,sur
-NeoAramaicArbelJewish,Neo-Aramaic (Arbel Jewish),,31.75,35,lish1245,aij
-Ngizim,Ngizim,,12.08333333,10.91666667,ngiz1242,ngi
-OromoHarar,Oromo (Harar),,9,42,east2652,hae
-TuaregGhat,Tuareg (Ghat),,25,10.16666667,taha1241,thv
-Ainu,Ainu,,43,143,ainu1240,ain
-CreePlains,Cree (Plains),,54,-110,plai1258,crk
-Azerbaijani,Azerbaijani,,40.5,48.5,sout2697,azb
-Buriat,Buriat,,52,108,mong1330,bxm
-Chuvash,Chuvash,,55.5,47.5,chuv1255,chv
-Evenki,Evenki,,56,125,even1259,evn
-Khalkha,Khalkha,,47,105,halh1238,khk
-Nanai,Nanai,,49.5,137,nana1257,gld
-Tatar,Tatar,,56,49.5,tata1255,tat
-Turkish,Turkish,,39,35,nucl1301,tur
-Tuvan,Tuvan,,52,95,tuvi1240,tyv
-Culina,Culina,,-6,-70.5,culi1244,cul
-Deni,Deni,,-6,-67,deni1241,dny
-Jamamadi,Jamamadi,,-7.5,-67,jama1261,jaa
-Paumari,Paumari,,-6,-64,paum1247,pad
-Mapudungun,Mapudungun,,-38,-72,mapu1245,arn
-Apurina,Apurina,,-9,-67,apur1254,apu
 Arawak,Arawak,,5.5,-55.16666667,araw1276,arw
-Baniwa,Baniwa,,2.666666667,-66.83333333,bani1255,bwi
-Bare,Bare,,1,-67,bare1276,bae
-Palikur,Palikur,,3,-51,pali1279,plu
-Parecis,Parecis,,-14,-57,pare1272,pab
-Piro,Piro,,-11,-73.5,yine1238,pib
-Terena,Terena,,-20,-56,tere1279,ter
-Warekena,Warekena,,1.5,-67.5,guar1293,gae
-Waura,Waura,,-13,-53,waur1244,wau
-Atakapa,Atakapa,,30,-93.5,atak1252,aqp
-Djingili,Djingili,,-17.75,134,djin1251,jig
-Dyirbal,Dyirbal,,-17.83333333,145.5833333,dyir1250,dbl
-Gaagudju,Gaagudju,,-12.58333333,132.8333333,gaga1251,gbu
-Garrwa,Garrwa,,-17.08333333,137.1666667,gara1261,gbc
-Gooniyandi,Gooniyandi,,-18.33333333,126.3333333,goon1238,gni
-Gunin,Gunin,,-14.25,126.6666667,kwin1241,gww
-Jaminjung,Jaminjung,,-15.08333333,130.5,djam1255,djd
-Malakmalak,Malakmalak,,-13.41666667,130.4166667,mull1237,mpb
-Mangarrayi,Mangarrayi,,-14.66666667,133.5,mang1381,mpc
-Martuthunira,Martuthunira,,-20.83333333,116.5,mart1255,vma
-Maung,Maung,,-11.91666667,133.5,maun1240,mph
-Ngarinyman,Ngarinyman,,-16.5,130.5,ngar1235,nbj
-Ngiyambaa,Ngiyambaa,,-31.75,145.5,wang1291,wyb
-Nunggubuyu,Nunggubuyu,,-13.75,135.6666667,nung1290,nuy
-Nyulnyul,Nyulnyul,,-17,122.8333333,nyul1247,nyv
-Tiwi,Tiwi,,-11.5,131,tiwi1244,tiw
-Ungarinjin,Ungarinjin,,-16.33333333,126,ngar1284,ung
-Uradhi,Uradhi,,-11.91666667,142.4166667,urad1239,urf
-Warndarang,Warndarang,,-14.41666667,135.5833333,wand1263,wnd
-Wembawemba,Wembawemba,,-35.33333333,144,,
-Worora,Worora,,-15.66666667,124.6666667,woro1255,unp
-Yidiny,Yidiny,,-17,145.75,yidi1250,yii
-Yingkarta,Yingkarta,,-25.16666667,114.8333333,ying1247,yia
-Yukulta,Yukulta,,-17.33333333,138.8333333,gang1267,gcd
-Jahai,Jahai,,5.75,101.5,jeha1242,jhi
-Kharia,Kharia,,22.5,84.33333333,khar1287,khr
-Khmer,Khmer,,12.5,105,cent1989,khm
-Khmu,Khmu',,21,102,khmu1256,kjg
-Korku,Korku,,22.5,78.5,kork1243,kfq
-Loven,Loven,,15,106.3333333,lave1248,lbo
-MahMeri,Mah Meri,,2.833333333,101.5,besi1244,mhe
-MlabriMinor,Mlabri (Minor),,18.5,101,mlab1235,mra
-NicobareseCar,Nicobarese (Car),,9,93,carn1240,caq
-Remo,Remo,,18,82,bond1245,bfw
-Santali,Santali,,24.5,87,sant1410,sat
-Semelai,Semelai,,3,103,seme1247,sza
-Temiar,Temiar,,5,101.5,temi1246,tea
-Vietnamese,Vietnamese,,10.5,106.5,viet1252,vie
-Alune,Alune,,-3,128.3333333,alun1238,alp
-AmbaeLolovoliNortheast,Ambae (Lolovoli Northeast),,-15.41666667,167.8833333,east2443,omb
-Amis,Amis,,23.33333333,121.3333333,amis1246,ami
+Arbore,Arbore,,5,36.75,arbo1245,arv
+ArmenianEastern,Armenian (Eastern),,40,45,nucl1235,hye
+ArmenianIranian,Armenian (Iranian),,32.66666667,51.66666667,nucl1235,
 Arosi,Arosi,,-10.25,161.3333333,aros1241,aia
+Assamese,Assamese,,26,93,assa1263,asm
+Atakapa,Atakapa,,30,-93.5,atak1252,aqp
 Atayal,Atayal,,24.5,121.3333333,atay1247,tay
+Athpare,Athpare,,27,87.33333333,athp1241,aph
+Avar,Avar,,42.5,46.5,avar1256,ava
+Awtuw,Awtuw,,-3.583333333,142,awtu1239,kmn
+Azerbaijani,Azerbaijani,,40.5,48.5,sout2697,azb
+Bagvalal,Bagvalal,,42.58333333,46.16666667,bagv1239,kva
 BajauSemporna,Bajau (Semporna),,4.5,118.5,sout2918,ssb
 Balinese,Balinese,,-8.333333333,115.25,bali1278,ban
+Baniwa,Baniwa,,2.666666667,-66.83333333,bani1255,bwi
+Baragaunle,Baragaunle,,28.83333333,83.83333333,lowa1242,loy
+Bare,Bare,,1,-67,bare1276,bae
+Basque,Basque,,43,-3,basq1248,eus
 BatakKaro,Batak (Karo),,3.25,98.25,bata1293,btx
 BegakIdaan,Begak-Ida'an,,5.25,118.8333333,idaa1241,dbj
+Belhare,Belhare,,26.96666667,87.3,belh1239,byw
+Bengali,Bengali,,24,90,beng1280,ben
 Biatah,Biatah,,1.25,110,biat1246,bth
+Boko,Boko,,10.5,3.5,boko1266,bqc
+Bora,Bora,,-2.166666667,-72.33333333,bora1263,boa
+Brahui,Brahui,,28.5,67,brah1256,brh
+Bulgarian,Bulgarian,,42.5,25,bulg1262,bul
+Buriat,Buriat,,52,108,mong1330,bxm
+Burmese,Burmese,,21,96,nucl1310,mya
+Burushaski,Burushaski,,36.5,74.5,buru1296,bsk
+CanelaKrah,Canela-Krah_,,-6,-46,cane1242,ram
+Cantonese,Cantonese,,23,113,yuec1235,yue
+Capanahua,Capanahua,,-7,-74,capa1241,kaq
+Carrier,Carrier,,53.75,-123.5,carr1249,crx
+Cayuvava,Cayuvava,,-13.5,-65.5,cayu1262,cyb
 ChamEastern,Cham (Eastern),,11.33333333,108.5,east2563,cjm
 ChamWestern,Cham (Western),,12,105.5,west2650,cja
 Chamorro,Chamorro,,13.45,144.75,cham1312,cha
+Chantyal,Chantyal,,28.58333333,83.41666667,chan1310,chx
+Chayahuita,Chayahuita,,-5.5,-77,chay1248,cbt
+Chechen,Chechen,,43.25,45.83333333,chec1245,che
+Chepang,Chepang,,27.66666667,84.75,chep1245,cdm
+ChichimecaJonaz,Chichimeca-Jonaz,,21.66666667,-100.5,chic1272,pei
+Chimariko,Chimariko,,41,-123,chim1301,cid
+ChinookUpper,Chinook (Upper),,45.5,-122.5,wasc1239,wac
+Chitimacha,Chitimacha,,29.66666667,-91,chit1248,ctm
+Choctaw,Choctaw,,32.25,-88.5,choc1276,cho
+ChontalHuamelultecOaxaca,Chontal (Huamelultec Oaxaca),,16,-95.75,lowl1260,clo
+Chukchi,Chukchi,,67,-173,chuk1273,ckt
+ChumashBarbareo,Chumash (Barbare_o),,34.5,-120.25,barb1263,boi
+ChumashIneseno,Chumash (Ineseno),,34.66666667,-120.25,ines1240,inz
 Chuukese,Chuukese,,7.333333333,151.75,chuu1238,chk
+Chuvash,Chuvash,,55.5,47.5,chuv1255,chv
+CoosHanis,Coos (Hanis),,43.5,-124.1666667,coos1249,csz
+CreePlains,Cree (Plains),,54,-110,plai1258,crk
+Culina,Culina,,-6,-70.5,culi1244,cul
+Dagaare,Dagaare,,10.5,-2.666666667,sout2789,dga
+Dargwa,Dargwa,,42.25,47.41666667,darg1241,dar
+Datooga,Datooga,,-4.333333333,35.33333333,dato1239,tcc
+Deni,Deni,,-6,-67,deni1241,dny
+Dizi,Dizi,,6.166666667,36.5,dizi1235,mdx
+Djingili,Djingili,,-17.75,134,djin1251,jig
 Dobel,Dobel,,-6.25,134.6666667,dobe1238,kvo
 Drehu,Drehu,,-21,167.25,dehu1237,dhv
+Dumo,Dumo,,-2.683333333,141.3,vani1248,vam
+Dyirbal,Dyirbal,,-17.83333333,145.5833333,dyir1250,dbl
+English,English,,52,0,stan1293,eng
+EpenaPedee,Epena Pedee,,3,-77,epen1239,sja
 Erromangan,Erromangan,,-18.83333333,169.1666667,siee1239,erg
+Evenki,Evenki,,56,125,even1259,evn
+Eyak,Eyak,,60.5,-145,eyak1241,eya
 Fijian,Fijian,,-17.83333333,178,fiji1243,fij
+Finnish,Finnish,,62,25,finn1318,fin
+French,French,,48,2,stan1290,fra
+FulaMauritanian,Fula (Mauritanian),,16.5,-13.75,pula1263,fuc
+Fur,Fur,,13.5,25,furr1244,fvr
 FutunaAniwa,Futuna-Aniwa,,-19.53333333,170.2166667,futu1245,fut
+Gaagudju,Gaagudju,,-12.58333333,132.8333333,gaga1251,gbu
+Garo,Garo,,25.66666667,90.5,garo1247,grt
+Garrwa,Garrwa,,-17.08333333,137.1666667,gara1261,gbc
+Gaviao,Gaviao,,-10.66666667,-62,gavi1246,gvo
+GbeyaBossangoa,Gbeya Bossangoa,,6.666666667,17.5,gbay1287,gbp
+Georgian,Georgian,,42,44,nucl1302,kat
+German,German,,52,10,stan1295,deu
+Gilaki,Gilaki,,37.33333333,50,gila1241,glk
+Gooniyandi,Gooniyandi,,-18.33333333,126.3333333,goon1238,gni
+Guarani,Guarani,,-26,-56,para1311,gug
+Guduf,Guduf,,11.23333333,13.8,gudu1252,gdf
+Gunin,Gunin,,-14.25,126.6666667,kwin1241,gww
+Haida,Haida,,53,-132,haid1248,hdn
+Hatam,Hatam,,-1,134,hata1243,had
+Hausa,Hausa,,12,7,haus1257,hau
 Hawaiian,Hawaiian,,19.58333333,-155.5,hawa1245,haw
+HebrewModern,Hebrew (Modern),,31.5,34.83333333,hebr1245,heb
+Hindi,Hindi,,25,77,hind1269,hin
+Hixkaryana,Hixkaryana,,-1,-59,hixk1239,hix
+HmongDaw,Hmong Daw,,26,105,hmon1333,mww
+Hokkien,Hokkien,,25,118,minn1241,nan
+Hua,Hua,,-6.333333333,145.3333333,yaga1260,ygr
+Hungarian,Hungarian,,47,20,hung1274,hun
+Hunzib,Hunzib,,42.16666667,46.25,hunz1247,huz
+Hup,Hup,,0.166666667,-69.25,hupd1244,jup
+Hyow,Hyow,,22.08333333,92.41666667,asho1236,csh
 Iaai,Iaai,,-20.41666667,166.5833333,iaai1238,iai
+Igbo,Igbo,,6,7.333333333,nucl1417,ibo
+Ika,Ika,,10.66666667,-73.75,arhu1242,arh
+Imonda,Imonda,,-3.333333333,141.1666667,imon1245,imn
 Indonesian,Indonesian,,0,106,indo1316,ind
+Ingush,Ingush,,43.16666667,45.08333333,ingu1240,inh
+Iraqw,Iraqw,,-4,35.5,iraq1241,irk
+Jahai,Jahai,,5.75,101.5,jeha1242,jhi
+Jakaltek,Jakaltek,,15.66666667,-91.66666667,popt1235,jac
+Jamamadi,Jamamadi,,-7.5,-67,jama1261,jaa
+Jaminjung,Jaminjung,,-15.08333333,130.5,djam1255,djd
+Japanese,Japanese,,37,140,nucl1643,jpn
+Jaqaru,Jaqaru,,-13,-76,jaqa1244,jqr
 Javanese,Javanese,,-7,111,java1254,jav
+Jivaro,Jivaro,,-2.5,-78,shua1257,jiv
+Juhoan,Ju|'hoan,,-19,21,juho1239,ktz
+Kalapuya,Kalapuya,,44.5,-123,kala1400,kyl
 Kambera,Kambera,,-9.833333333,120.1666667,kamb1299,xbr
+Kana,Kana,,4.75,7.416666667,khan1278,ogo
+Kannada,Kannada,,14,76,nucl1305,kan
+Kanuri,Kanuri,,12,13,cent2050,knc
+Karok,Karok,,41.66666667,-123,karo1304,kyh
+Kate,Kate,,-6.5,147.75,kate1253,kmg
+KayahLiEastern,Kayah Li (Eastern),,19,97.5,east2342,eky
 KayanBaram,Kayan (Baram),,3.5,114.5,bara1370,kys
 KayuAgung,Kayu Agung,,-3.166666667,104.9166667,kome1238,kge
 Keo,Ke'o,,-8.833333333,121.25,keoo1238,xxk
@@ -114,288 +154,248 @@ Kei,Kei,,-5.833333333,132.9166667,keii1239,kei
 Kelabit,Kelabit,,3.666666667,115.4166667,kela1258,kzi
 KenyahUmaLung,Kenyah (Uma' Lung),,3,115.8333333,,
 Ketapang,Ketapang,,-1.866666667,110,mala1479,zlm
-Kilivila,Kilivila,,-8.5,151.0833333,kili1267,kij
-Kiribati,Kiribati,,1.333333333,173,gilb1244,gil
-Kosraean,Kosraean,,5.3,163,kosr1238,kos
-Larike,Larike,,-3.75,127.9166667,lari1255,alo
-Leti,Leti,,-8.2,127.6666667,leti1246,lti
-Loniu,Loniu,,-2.066666667,147.3333333,loni1238,los
-LunDayeh,Lun Dayeh,,4,115.9166667,lund1271,lnd
-Makassar,Makassar,,-5.416666667,119.5833333,maka1311,mak
-Malagasy,Malagasy,,-20,47,plat1254,plt
-Mandar,Mandar,,-3.416666667,119.0833333,mand1442,mdr
-Melanau,Melanau,,2.5,111.5,cent2101,mel
-Minangkabau,Minangkabau,,-1,101,mina1268,min
-Mokilese,Mokilese,,6.666666667,159.75,moki1238,mkj
-Napu,Napu,,-1.333333333,120.4166667,napu1241,npy
-Narom,Narom,,4.416666667,114,naro1251,nrm
-Nauruan,Nauruan,,-0.5,166.9166667,naur1243,nau
-Nelemwa,Nelemwa,,-20.25,164.0833333,kuma1276,nee
-Ngada,Ngad'a,,-8.833333333,121,ngad1261,nxg
-Nyelayu,Nyelayu,,-20.33333333,164.3333333,nyal1254,yly
-Padoe,Padoe,,-2.333333333,121.3333333,pado1242,pdo
-Pileni,Pileni,,-10.21666667,166.2166667,pile1238,piv
-Pohnpeian,Pohnpeian,,6.883333333,158.25,pohn1238,pon
-Rapanui,Rapanui,,-27.11666667,-109.3666667,rapa1244,rap
-RukaiTanan,Rukai (Tanan),,22.83333333,120.8333333,ruka1240,dru
-Samoan,Samoan,,-13.91666667,-171.8333333,samo1305,smo
-Sawu,Sawu,,-11.5,121.9166667,sabu1255,hvn
-Seediq,Seediq,,24.16666667,121.4166667,taro1264,trv
-Semandang,Semandang,,-0.416666667,110.4166667,,
-Semandang,Semandang,,-0.75,110.5,sema1269,sdm
-Simeulue,Simeulue,,2.5,96.25,sime1241,smr
-Taba,Taba,,0,127.5,east2440,mky
-Tagalog,Tagalog,,15,121,taga1270,tgl
-Tawala,Tawala,,-10.33333333,150.6666667,tawa1275,tbo
-Tetun,Tetun,,-9,126,tetu1245,tet
-Timugon,Timugon,,5,116,timu1262,tih
-Tolai,Tolai,,-4.25,152.0833333,kuan1248,ksd
-Tongan,Tongan,,-21.16666667,-175.1666667,tong1325,ton
-Toqabaqita,Toqabaqita,,-8.416666667,160.5833333,toab1237,mlu
-Tsou,Tsou,,23.5,120.75,tsou1248,tsu
-TukangBesi,Tukang Besi,,-5.5,123.5,tuka1247,bhq
-Tuvaluan,Tuvaluan,,-8.5,179.1666667,tuva1244,tvl
-Ulithian,Ulithian,,9.916666667,139.5833333,ulit1238,uli
-Ura,Ura,,-18.66666667,169.0833333,urav1235,uur
-Yami,Yami,,22,121.5,yami1254,tao
-Yapese,Yapese,,9.583333333,138.1666667,yape1248,yap
-Jaqaru,Jaqaru,,-13,-76,jaqa1244,jqr
-Mali,Mali,,-4.833333333,152.25,mali1284,gcc
-Taulil,Taulil,,-4.416666667,152.0833333,taul1251,tuh
-Basque,Basque,,43,-3,basq1248,eus
-Imonda,Imonda,,-3.333333333,141.1666667,imon1245,imn
-Burushaski,Burushaski,,36.5,74.5,buru1296,bsk
-Pawnee,Pawnee,,41,-98.66666667,pawn1254,paw
-Chayahuita,Chayahuita,,-5.5,-77,chay1248,cbt
-Hixkaryana,Hixkaryana,,-1,-59,hixk1239,hix
-Panare,Panare,,6.5,-66,enap1235,pbh
-Cayuvava,Cayuvava,,-13.5,-65.5,cayu1262,cyb
-Wari,Wari',,-11.33333333,-65,wari1268,pav
-Ika,Ika,,10.66666667,-73.75,arhu1242,arh
-Muisca,Muisca,,5,-74,chib1270,chb
-Teribe,Teribe,,9.333333333,-82.66666667,teri1250,tfr
-Quileute,Quileute,,47.91666667,-124.25,quil1240,qui
-Chitimacha,Chitimacha,,29.66666667,-91,chit1248,ctm
-EpenaPedee,Epena Pedee,,3,-77,epen1239,sja
-Chukchi,Chukchi,,67,-173,chuk1273,ckt
-ChumashBarbareo,Chumash (Barbare_o),,34.5,-120.25,barb1263,boi
-ChumashIneseno,Chumash (Ineseno),,34.66666667,-120.25,ines1240,inz
-Brahui,Brahui,,28.5,67,brah1256,brh
-Kannada,Kannada,,14,76,nucl1305,kan
-Kota,Kota,,11.5,77.16666667,kota1263,kfe
-Malayalam,Malayalam,,10,76.5,mala1464,mal
-Nasioi,Nasioi,,-6.333333333,155.5833333,naas1242,nas
-Toba,Toba,,-26.5,-59,toba1269,tob
-Haida,Haida,,53,-132,haid1248,hdn
-Amarakaeri,Amarakaeri,,-12.5,-70.5,amar1274,amr
-HmongDaw,Hmong Daw,,26,105,hmon1333,mww
-Chimariko,Chimariko,,41,-123,chim1301,cid
-Maricopa,Maricopa,,33.16666667,-113.1666667,mari1440,mrc
-Shasta,Shasta,,41.83333333,-122.6666667,shas1239,sht
-Bora,Bora,,-2.166666667,-72.33333333,bora1263,boa
-Ocaina,Ocaina,,-2.75,-71.75,ocai1244,oca
-Albanian,Albanian,,41,20,gheg1238,aln
-ArmenianEastern,Armenian (Eastern),,40,45,nucl1235,hye
-ArmenianIranian,Armenian (Iranian),,32.66666667,51.66666667,nucl1235,
-Assamese,Assamese,,26,93,assa1263,asm
-Bengali,Bengali,,24,90,beng1280,ben
-Bulgarian,Bulgarian,,42.5,25,bulg1262,bul
-English,English,,52,0,stan1293,eng
-French,French,,48,2,stan1290,fra
-German,German,,52,10,stan1295,deu
-Gilaki,Gilaki,,37.33333333,50,gila1241,glk
-Hindi,Hindi,,25,77,hind1269,hin
-Latvian,Latvian,,57,24,latv1249,lav
-Luri,Luri,,33.5,48.5,nort2645,lrc
-Marathi,Marathi,,19,76,mara1378,mar
-Mazanderani,Mazanderani,,36.5,52,maza1291,mzn
-Persian,Persian,,32,54,west2369,pes
-RomaniSepecides,Romani (Sepecides),,38.25,27,,
-Russian,Russian,,56,38,russ1263,rus
-Sinhala,Sinhala,,7,80.5,sinh1246,sin
-TatiSouthern,Tati (Southern),,36,49.66666667,take1255,tks
-Vafsi,Vafsi,,34.66666667,49.91666667,vafs1240,vaf
-Waigali,Waigali,,35,71.25,waig1243,wbk
-Seneca,Seneca,,42.5,-77.5,sene1264,see
-Japanese,Japanese,,37,140,nucl1643,jpn
-Jivaro,Jivaro,,-2.5,-78,shua1257,jiv
-Kalapuya,Kalapuya,,44.5,-123,kala1400,kyl
-Karok,Karok,,41.66666667,-123,karo1304,kyh
-Georgian,Georgian,,42,44,nucl1302,kat
-Acoma,Acoma,,34.91666667,-107.5833333,west2632,kjq
-Xam,/Xam,,-31,21,xamm1241,xam
-Juhoan,Ju|'hoan,,-19,21,juho1239,ktz
-Khoekhoe,Khoekhoe,,-25.5,18,nama1264,naq
-Sandawe,Sandawe,,-5,35,sand1273,sad
-Xoo,Xoo,,-24,21.5,xooo1239,nmn
-Kiowa,Kiowa,,37,-99,kiow1266,kio
-Kiwai,Kiwai,,-8,143.5,nort2930,kiw
-Korean,Korean,,37.5,128,kore1280,kor
-Kutenai,Kutenai,,49.5,-116,kute1249,kut
-Kwaza,Kwaza,,-12.58333333,-60.66666667,kwaz1243,xwa
-Yimas,Yimas,,-4.666666667,143.55,yima1243,yee
-CanelaKrah,Canela-Krah_,,-6,-46,cane1242,ram
-Maku,Maku,,0.416666667,-69.83333333,maku1246,
-Jakaltek,Jakaltek,,15.66666667,-91.66666667,popt1235,jac
-Tzeltal,Tzeltal,,16.83333333,-92.25,tzel1253,tzb
-Yucatec,Yucatec,,20,-89,yuca1254,yua
-Miskito,Miskito,,14,-83.66666667,misk1235,miq
-Mosetn,Moset_n,,-14.75,-67.83333333,mose1249,cas
-Piraha,Piraha,,-7,-62,pira1253,myp
-Choctaw,Choctaw,,32.25,-88.5,choc1276,cho
-Carrier,Carrier,,53.75,-123.5,carr1249,crx
-Eyak,Eyak,,60.5,-145,eyak1241,eya
-Navajo,Navajo,,36.16666667,-108,nava1243,nav
-Tlingit,Tlingit,,59,-135,tlin1245,tli
-Hup,Hup,,0.166666667,-69.25,hupd1244,jup
-Nahali,Nahali,,19.75,77.83333333,niha1238,nll
-Avar,Avar,,42.5,46.5,avar1256,ava
-Bagvalal,Bagvalal,,42.58333333,46.16666667,bagv1239,kva
-Chechen,Chechen,,43.25,45.83333333,chec1245,che
-Dargwa,Dargwa,,42.25,47.41666667,darg1241,dar
-Hunzib,Hunzib,,42.16666667,46.25,hunz1247,huz
-Ingush,Ingush,,43.16666667,45.08333333,ingu1240,inh
-Lezgian,Lezgian,,41.66666667,47.83333333,lezg1247,lez
-Boko,Boko,,10.5,3.5,boko1266,bqc
-Dagaare,Dagaare,,10.5,-2.666666667,sout2789,dga
-FulaMauritanian,Fula (Mauritanian),,16.5,-13.75,pula1263,fuc
-GbeyaBossangoa,Gbeya Bossangoa,,6.666666667,17.5,gbay1287,gbp
-Igbo,Igbo,,6,7.333333333,nucl1417,ibo
-Kana,Kana,,4.75,7.416666667,khan1278,ogo
-Koromfe,Koromfe,,14.25,-0.916666667,koro1298,kfz
-Kpelle,Kpelle,,7,-10,libe1247,xpe
-Lucazi,Lucazi,,-14,20,luch1239,lch
-Luganda,Luganda,,0.5,32.16666667,gand1255,lug
-Mandinka,Mandinka,,13,-15.66666667,mand1436,mnk
-Mende,Mende,,7.833333333,-11.5,mend1266,men
-Mituku,Mituku,,-1.666666667,25.5,mitu1240,zmq
-Orig,Orig,,12.16666667,30.83333333,tega1236,ras
-RunyoroRutooro,Runyoro-Rutooro,,1.5,31.33333333,nyor1246,nyo
-Sesotho,Sesotho,,-28,27,sout2807,sot
-Supyire,Supyire,,11.5,-5.583333333,supy1237,spp
-Swahili,Swahili,,-6.5,39,swah1253,swh
-Swati,Swati,,-26.5,31,swat1243,ssw
-ToussianWin,Toussian (Win),,10.83333333,-4.666666667,sout2797,wib
-Tunen,Tunen,,4.75,10.66666667,tune1241,baz
-Yoruba,Yoruba,,8,4.333333333,yoru1245,yor
-Zulu,Zulu,,-30,30,zulu1248,zul
-Datooga,Datooga,,-4.333333333,35.33333333,dato1239,tcc
-Fur,Fur,,13.5,25,furr1244,fvr
-Kanuri,Kanuri,,12,13,cent2050,knc
-KoyraChiini,Koyra Chiini,,17,-3,koyr1240,khq
-Lango,Lango,,2.166666667,33,lang1324,laj
-Lugbara,Lugbara,,3.083333333,30.91666667,lugb1240,lgg
-Luo,Luo,,-0.5,34.75,luok1236,luo
-Maasai,Maasai,,-3,36,masa1300,mas
-Meen,Me'en,,5,37,meen1242,mym
-NarainEthiopia,Nara (in Ethiopia),,15.08333333,37.58333333,nara1262,nrb
-NubianDongolese,Nubian (Dongolese),,18.25,30.75,kenu1236,kzh
-So,So,,2.583333333,34.75,sooo1256,teu
-Nivkh,Nivkh,,53.33333333,142,gily1242,niv
-NivkhSouthSakhalin,Nivkh (South Sakhalin),,47,142.5,gily1242,niv
-Abkhaz,Abkhaz,,43.08333333,41,abkh1244,abk
-CoosHanis,Coos (Hanis),,43.5,-124.1666667,coos1249,csz
-Siuslaw,Siuslaw,,44,-124,sius1254,sis
-Ndyuka,Ndyuka,,4.5,-54.5,ndyu1242,djk
-RussianChinesePidginBirobidjan,Russian-Chinese Pidgin (Birobidjan),,48.8,132.95,,
-ChichimecaJonaz,Chichimeca-Jonaz,,21.66666667,-100.5,chic1272,pei
-MixtecChalcatongo,Mixtec (Chalcatongo),,17.05,-97.58333333,sanm1295,mig
-Capanahua,Capanahua,,-7,-74,capa1241,kaq
-ShipiboKonibo,Shipibo-Konibo,,-7.5,-75,ship1254,shp
-Yagua,Yagua,,-3.5,-72,yagu1244,yad
-ChinookUpper,Chinook (Upper),,45.5,-122.5,wasc1239,wac
-Klamath,Klamath,,42.5,-121.5,klam1254,kla
-MaiduNortheast,Maidu (Northeast),,40,-120.6666667,nort2952,nmu
-MiwokSouthernSierra,Miwok (Southern Sierra),,37.5,-120,sout2985,skd
-Molala,Molala,,44.5,-122.5,mola1238,mbe
-TsimshianCoast,Tsimshian (Coast),,52.5,-129,nucl1649,tsi
-Wintu,Wintu,,41,-122.5,wint1259,wit
-Yawelmani,Yawelmani,,35.41666667,-119,yoku1256,yok
-QuechuaCuzco,Quechua (Cuzco),,-14.5,-71,cusc1236,quz
-QuechuaHuallaga,Quechua (Huallaga),,-9.5,-75.5,huam1248,qvh
-QuechuaImbabura,Quechua (Imbabura),,0.333333333,-78,imba1240,qvi
-Piaroa,Piaroa,,5,-67,piar1243,pid
-Salinan,Salinan,,36,-121,sali1253,sln
-Thompson,Thompson,,49.75,-121.75,thom1243,thp
-Sentani,Sentani,,-2.583333333,140.5833333,nucl1632,set
-Alamblak,Alamblak,,-4.666666667,143.3333333,alam1246,amp
-Ambulas,Ambulas,,-3.833333333,143,ambu1247,abt
-Awtuw,Awtuw,,-3.583333333,142,awtu1239,kmn
-YessanMayo,Yessan-Mayo,,-4.166666667,142.5833333,yess1239,yss
-Athpare,Athpare,,27,87.33333333,athp1241,aph
-Baragaunle,Baragaunle,,28.83333333,83.83333333,lowa1242,loy
-Belhare,Belhare,,26.96666667,87.3,belh1239,byw
-Burmese,Burmese,,21,96,nucl1310,mya
-Cantonese,Cantonese,,23,113,yuec1235,yue
-Chantyal,Chantyal,,28.58333333,83.41666667,chan1310,chx
-Chepang,Chepang,,27.66666667,84.75,chep1245,cdm
-Garo,Garo,,25.66666667,90.5,garo1247,grt
-Hokkien,Hokkien,,25,118,minn1241,nan
-Hyow,Hyow,,22.08333333,92.41666667,asho1236,csh
-KayahLiEastern,Kayah Li (Eastern),,19,97.5,east2342,eky
-Kham,Kham,,28.5,82.75,gama1251,kgj
-Khumi,Khumi,,21.91666667,92.41666667,khum1248,cnk
-Lahu,Lahu,,20,98.16666667,lahu1253,lhu
-Lai,Lai,,22.66666667,93.66666667,haka1240,cnh
-Limbu,Limbu,,27.16666667,87.75,limb1266,lif
-MagarSyangja,Magar (Syangja),,28.08333333,83.83333333,west2418,mrd
-Mandarin,Mandarin,,34,110,mand1415,cmn
-NewariKathmandu,Newari (Kathmandu),,27.66666667,85.5,newa1246,new
-Lakhota,Lakhota,,43.83333333,-101.8333333,lako1247,lkt
-Mandan,Mandan,,46.5,-102.5,mand1446,mhq
-Dumo,Dumo,,-2.683333333,141.3,vani1248,vam
-Sulka,Sulka,,-5.083333333,151.9166667,sulk1246,sua
-Lachi,Lachi,,22.66666667,104.8333333,lach1248,lbt
-Thai,Thai,,16,101,thai1261,tha
-Takelma,Takelma,,42.5,-123,take1257,tkm
-Purepecha,Purepecha,,19.5,-101.6666667,pure1242,tsz
-ChontalHuamelultecOaxaca,Chontal (Huamelultec Oaxaca),,16,-95.75,lowl1260,clo
-Tol,Tol,,14.66666667,-87,toll1241,jic
-Tonkawa,Tonkawa,,30.25,-96.75,tonk1249,tqw
-TotonacPapantla,Totonac (Papantla),,20.33333333,-97.33333333,papa1238,top
-Amele,Amele,,-5.25,145.5833333,amel1241,aey
-Hua,Hua,,-6.333333333,145.3333333,yaga1260,ygr
-Kate,Kate,,-6.5,147.75,kate1253,kmg
 Kewa,Kewa,,-6.5,143.8333333,kewa1250,kew
+Khalkha,Khalkha,,47,105,halh1238,khk
+Kham,Kham,,28.5,82.75,gama1251,kgj
+Kharia,Kharia,,22.5,84.33333333,khar1287,khr
+Khmer,Khmer,,12.5,105,cent1989,khm
+Khmu,Khmu',,21,102,khmu1256,kjg
+Khoekhoe,Khoekhoe,,-25.5,18,nama1264,naq
+Khumi,Khumi,,21.91666667,92.41666667,khum1248,cnk
+Kilivila,Kilivila,,-8.5,151.0833333,kili1267,kij
+Kiowa,Kiowa,,37,-99,kiow1266,kio
+Kiribati,Kiribati,,1.333333333,173,gilb1244,gil
+Kiwai,Kiwai,,-8,143.5,nort2930,kiw
+Klamath,Klamath,,42.5,-121.5,klam1254,kla
 Kobon,Kobon,,-5.166666667,144.3333333,kobo1249,kpw
 Koiari,Koiari,,-9.5,147.3333333,gras1249,kbk
 Kombai,Kombai,,-5.583333333,140,ndei1235,tyn
-Korafe,Korafe,,-9.05,149.0833333,kora1294,kpr
-SaltYui,Salt-Yui,,-6.283333333,145.0333333,salt1242,sll
-Suena,Suena,,-7.75,147.55,suen1241,sue
-Telefol,Telefol,,-5,141.75,tele1256,tlf
-Orejon,Orejon,,-2.833333333,-72.5,orej1242,ore
-Siona,Siona,,0.333333333,-76.25,sion1247,snn
-Tucano,Tucano,,0.5,-69.16666667,tuca1252,tuo
-Tuyuca,Tuyuca,,0.5,-70.08333333,tuyu1244,tue
-Tunica,Tunica,,32.66666667,-91,tuni1252,tun
-Gaviao,Gaviao,,-10.66666667,-62,gavi1246,gvo
-Guarani,Guarani,,-26,-56,para1311,gug
-Munduruku,Munduruku,,-7,-58,mund1330,myu
-Finnish,Finnish,,62,25,finn1318,fin
-Hungarian,Hungarian,,47,20,hung1274,hun
 KomiZyrian,Komi-Zyrian,,65,55,komi1268,kpv
-MordvinErzya,Mordvin (Erzya),,53,45.5,erzy1239,myv
-Nenets,Nenets,,69,72,nene1249,yrk
+Konua,Konua,,-5.833333333,154.8333333,rapo1238,kyx
+Korafe,Korafe,,-9.05,149.0833333,kora1294,kpr
+Korean,Korean,,37.5,128,kore1280,kor
+Korku,Korku,,22.5,78.5,kork1243,kfq
+Koromfe,Koromfe,,14.25,-0.916666667,koro1298,kfz
+Kosraean,Kosraean,,5.3,163,kosr1238,kos
+Kota,Kota,,11.5,77.16666667,kota1263,kfe
+KoyraChiini,Koyra Chiini,,17,-3,koyr1240,khq
+Kpelle,Kpelle,,7,-10,libe1247,xpe
+Kutenai,Kutenai,,49.5,-116,kute1249,kut
+Kwaza,Kwaza,,-12.58333333,-60.66666667,kwaz1243,xwa
+Lachi,Lachi,,22.66666667,104.8333333,lach1248,lbt
+Lahu,Lahu,,20,98.16666667,lahu1253,lhu
+Lai,Lai,,22.66666667,93.66666667,haka1240,cnh
+Lakhota,Lakhota,,43.83333333,-101.8333333,lako1247,lkt
+Lango,Lango,,2.166666667,33,lang1324,laj
+Larike,Larike,,-3.75,127.9166667,lari1255,alo
+Latvian,Latvian,,57,24,latv1249,lav
+Leti,Leti,,-8.2,127.6666667,leti1246,lti
+Lezgian,Lezgian,,41.66666667,47.83333333,lezg1247,lez
+Limbu,Limbu,,27.16666667,87.75,limb1266,lif
+Loniu,Loniu,,-2.066666667,147.3333333,loni1238,los
+Loven,Loven,,15,106.3333333,lave1248,lbo
+Lucazi,Lucazi,,-14,20,luch1239,lch
+Luganda,Luganda,,0.5,32.16666667,gand1255,lug
+Lugbara,Lugbara,,3.083333333,30.91666667,lugb1240,lgg
 Luiseno,Luiseno,,33.33333333,-117.1666667,luis1253,lui
+LunDayeh,Lun Dayeh,,4,115.9166667,lund1271,lnd
+Luo,Luo,,-0.5,34.75,luok1236,luo
+Luri,Luri,,33.5,48.5,nort2645,lrc
+Maasai,Maasai,,-3,36,masa1300,mas
+MagarSyangja,Magar (Syangja),,28.08333333,83.83333333,west2418,mrd
+MahMeri,Mah Meri,,2.833333333,101.5,besi1244,mhe
+MaiduNortheast,Maidu (Northeast),,40,-120.6666667,nort2952,nmu
+Makassar,Makassar,,-5.416666667,119.5833333,maka1311,mak
+Maku,Maku,,0.416666667,-69.83333333,maku1246,
+Malagasy,Malagasy,,-20,47,plat1254,plt
+Malakmalak,Malakmalak,,-13.41666667,130.4166667,mull1237,mpb
+Malayalam,Malayalam,,10,76.5,mala1464,mal
+Mali,Mali,,-4.833333333,152.25,mali1284,gcc
+Mandan,Mandan,,46.5,-102.5,mand1446,mhq
+Mandar,Mandar,,-3.416666667,119.0833333,mand1442,mdr
+Mandarin,Mandarin,,34,110,mand1415,cmn
+Mandinka,Mandinka,,13,-15.66666667,mand1436,mnk
+Mangarrayi,Mangarrayi,,-14.66666667,133.5,mang1381,mpc
+Mapudungun,Mapudungun,,-38,-72,mapu1245,arn
+Marathi,Marathi,,19,76,mara1378,mar
+Margi,Margi,,11,13,marg1265,mrt
+Maricopa,Maricopa,,33.16666667,-113.1666667,mari1440,mrc
+Martuthunira,Martuthunira,,-20.83333333,116.5,mart1255,vma
+Maung,Maung,,-11.91666667,133.5,maun1240,mph
+Maybrat,Maybrat,,-1.333333333,132.5,maib1239,ayz
+Mazanderani,Mazanderani,,36.5,52,maza1291,mzn
+Mbugu,Mbugu,,-4.333333333,38.16666667,mbug1240,mhd
+Meen,Me'en,,5,37,meen1242,mym
+Melanau,Melanau,,2.5,111.5,cent2101,mel
+Mende,Mende,,7.833333333,-11.5,mend1266,men
+Minangkabau,Minangkabau,,-1,101,mina1268,min
+Miskito,Miskito,,14,-83.66666667,misk1235,miq
+Mituku,Mituku,,-1.666666667,25.5,mitu1240,zmq
+MiwokSouthernSierra,Miwok (Southern Sierra),,37.5,-120,sout2985,skd
+MixtecChalcatongo,Mixtec (Chalcatongo),,17.05,-97.58333333,sanm1295,mig
+Miya,Miya,,10.91666667,9.666666667,miya1266,mkf
+MlabriMinor,Mlabri (Minor),,18.5,101,mlab1235,mra
+Mokilese,Mokilese,,6.666666667,159.75,moki1238,mkj
+Molala,Molala,,44.5,-122.5,mola1238,mbe
+MordvinErzya,Mordvin (Erzya),,53,45.5,erzy1239,myv
+Mosetn,Moset_n,,-14.75,-67.83333333,mose1249,cas
+Muisca,Muisca,,5,-74,chib1270,chb
+Munduruku,Munduruku,,-7,-58,mund1330,myu
+Mupun,Mupun,,9.5,8.833333333,mwag1236,sur
+Nahali,Nahali,,19.75,77.83333333,niha1238,nll
 NahuatlTetelcingo,Nahuatl (Tetelcingo),,19.66666667,-99,tete1251,nhg
+Nanai,Nanai,,49.5,137,nana1257,gld
+Napu,Napu,,-1.333333333,120.4166667,napu1241,npy
+NarainEthiopia,Nara (in Ethiopia),,15.08333333,37.58333333,nara1262,nrb
+Narom,Narom,,4.416666667,114,naro1251,nrm
+Nasioi,Nasioi,,-6.333333333,155.5833333,naas1242,nas
+Nauruan,Nauruan,,-0.5,166.9166667,naur1243,nau
+Navajo,Navajo,,36.16666667,-108,nava1243,nav
+Ndyuka,Ndyuka,,4.5,-54.5,ndyu1242,djk
+Nelemwa,Nelemwa,,-20.25,164.0833333,kuma1276,nee
+Nenets,Nenets,,69,72,nene1249,yrk
+NeoAramaicArbelJewish,Neo-Aramaic (Arbel Jewish),,31.75,35,lish1245,aij
+NewariKathmandu,Newari (Kathmandu),,27.66666667,85.5,newa1246,new
+Ngada,Ngad'a,,-8.833333333,121,ngad1261,nxg
+Ngarinyman,Ngarinyman,,-16.5,130.5,ngar1235,nbj
+Ngiyambaa,Ngiyambaa,,-31.75,145.5,wang1291,wyb
+Ngizim,Ngizim,,12.08333333,10.91666667,ngiz1242,ngi
+NicobareseCar,Nicobarese (Car),,9,93,carn1240,caq
+Nivkh,Nivkh,,53.33333333,142,gily1242,niv
+NivkhSouthSakhalin,Nivkh (South Sakhalin),,47,142.5,gily1242,niv
+NubianDongolese,Nubian (Dongolese),,18.25,30.75,kenu1236,kzh
+Nunggubuyu,Nunggubuyu,,-13.75,135.6666667,nung1290,nuy
+Nyelayu,Nyelayu,,-20.33333333,164.3333333,nyal1254,yly
+Nyulnyul,Nyulnyul,,-17,122.8333333,nyul1247,nyv
 Oodham,O'odham,,32,-112,toho1245,ood
+Ocaina,Ocaina,,-2.75,-71.75,ocai1244,oca
+OnyaDarat,Onya Darat,,-0.75,110.5,sema1269,sdm
+Orejon,Orejon,,-2.833333333,-72.5,orej1242,ore
+Orig,Orig,,12.16666667,30.83333333,tega1236,ras
+OromoHarar,Oromo (Harar),,9,42,east2652,hae
+Padoe,Padoe,,-2.333333333,121.3333333,pado1242,pdo
 PaiuteNorthern,Paiute (Northern),,42,-118,nort2954,pao
 PaiuteSouthern,Paiute (Southern),,37.83333333,-113.3333333,utes1238,ute
+Palikur,Palikur,,3,-51,pali1279,plu
+Panare,Panare,,6.5,-66,enap1235,pbh
+Parecis,Parecis,,-14,-57,pare1272,pab
+Paumari,Paumari,,-6,-64,paum1247,pad
+Pawnee,Pawnee,,41,-98.66666667,pawn1254,paw
+Persian,Persian,,32,54,west2369,pes
+Piaroa,Piaroa,,5,-67,piar1243,pid
+Pileni,Pileni,,-10.21666667,166.2166667,pile1238,piv
 PimaBajo,Pima Bajo,,29,-111,pima1248,pia
 Pipil,Pipil,,13.83333333,-89.58333333,pipi1250,ppl
+Piraha,Piraha,,-7,-62,pira1253,myp
+Piro,Piro,,-11,-73.5,yine1238,pib
+Pohnpeian,Pohnpeian,,6.883333333,158.25,pohn1238,pon
+Purepecha,Purepecha,,19.5,-101.6666667,pure1242,tsz
+QuechuaCuzco,Quechua (Cuzco),,-14.5,-71,cusc1236,quz
+QuechuaHuallaga,Quechua (Huallaga),,-9.5,-75.5,huam1248,qvh
+QuechuaImbabura,Quechua (Imbabura),,0.333333333,-78,imba1240,qvi
+Quileute,Quileute,,47.91666667,-124.25,quil1240,qui
+Rapanui,Rapanui,,-27.11666667,-109.3666667,rapa1244,rap
+Remo,Remo,,18,82,bond1245,bfw
+RomaniSepecides,Romani (Sepecides),,38.25,27,,
+RukaiTanan,Rukai (Tanan),,22.83333333,120.8333333,ruka1240,dru
+RunyoroRutooro,Runyoro-Rutooro,,1.5,31.33333333,nyor1246,nyo
+Russian,Russian,,56,38,russ1263,rus
+RussianChinesePidginBirobidjan,Russian-Chinese Pidgin (Birobidjan),,48.8,132.95,,
+Salinan,Salinan,,36,-121,sali1253,sln
+SaltYui,Salt-Yui,,-6.283333333,145.0333333,salt1242,sll
+Samandang,Samandang,,-0.416666667,110.4166667,nucl1557,
+Samoan,Samoan,,-13.91666667,-171.8333333,samo1305,smo
+Sandawe,Sandawe,,-5,35,sand1273,sad
+Santali,Santali,,24.5,87,sant1410,sat
+Sanuma,Sanuma,,4.5,-64.66666667,sanu1240,xsu
+Sawu,Sawu,,-11.5,121.9166667,sabu1255,hvn
+Seediq,Seediq,,24.16666667,121.4166667,taro1264,trv
+Semelai,Semelai,,3,103,seme1247,sza
+Seneca,Seneca,,42.5,-77.5,sene1264,see
+Sentani,Sentani,,-2.583333333,140.5833333,nucl1632,set
+Sesotho,Sesotho,,-28,27,sout2807,sot
+Shasta,Shasta,,41.83333333,-122.6666667,shas1239,sht
+ShipiboKonibo,Shipibo-Konibo,,-7.5,-75,ship1254,shp
+Simeulue,Simeulue,,2.5,96.25,sime1241,smr
+Sinhala,Sinhala,,7,80.5,sinh1246,sin
+Siona,Siona,,0.333333333,-76.25,sion1247,snn
+Siuslaw,Siuslaw,,44,-124,sius1254,sis
+So,So,,2.583333333,34.75,sooo1256,teu
+Suena,Suena,,-7.75,147.55,suen1241,sue
+Sulka,Sulka,,-5.083333333,151.9166667,sulk1246,sua
+Supyire,Supyire,,11.5,-5.583333333,supy1237,spp
+Swahili,Swahili,,-6.5,39,swah1253,swh
+Swati,Swati,,-26.5,31,swat1243,ssw
+Taba,Taba,,0,127.5,east2440,mky
+Tagalog,Tagalog,,15,121,taga1270,tgl
+Takelma,Takelma,,42.5,-123,take1257,tkm
+Tatar,Tatar,,56,49.5,tata1255,tat
+TatiSouthern,Tati (Southern),,36,49.66666667,take1255,tks
+Taulil,Taulil,,-4.416666667,152.0833333,taul1251,tuh
+Tawala,Tawala,,-10.33333333,150.6666667,tawa1275,tbo
+Tehit,Tehit,,-1.5,132,tehi1237,kps
+Telefol,Telefol,,-5,141.75,tele1256,tlf
+Temiar,Temiar,,5,101.5,temi1246,tea
 TepehuanSoutheastern,Tepehuan (Southeastern),,23,-104.5,sout2976,stp
+Terena,Terena,,-20,-56,tere1279,ter
+Teribe,Teribe,,9.333333333,-82.66666667,teri1250,tfr
+Tetun,Tetun,,-9,126,tetu1245,tet
+Thai,Thai,,16,101,thai1261,tha
+Thompson,Thompson,,49.75,-121.75,thom1243,thp
+Tidore,Tidore,,0.75,127.5,tido1248,tvo
+Timugon,Timugon,,5,116,timu1262,tih
+Tiwi,Tiwi,,-11.5,131,tiwi1244,tiw
+Tlingit,Tlingit,,59,-135,tlin1245,tli
+Toba,Toba,,-26.5,-59,toba1269,tob
+Tol,Tol,,14.66666667,-87,toll1241,jic
+Tolai,Tolai,,-4.25,152.0833333,kuan1248,ksd
+Tongan,Tongan,,-21.16666667,-175.1666667,tong1325,ton
+Tonkawa,Tonkawa,,30.25,-96.75,tonk1249,tqw
+Toqabaqita,Toqabaqita,,-8.416666667,160.5833333,toab1237,mlu
+TotonacPapantla,Totonac (Papantla),,20.33333333,-97.33333333,papa1238,top
+ToussianWin,Toussian (Win),,10.83333333,-4.666666667,sout2797,wib
+TsimshianCoast,Tsimshian (Coast),,52.5,-129,nucl1649,tsi
+Tsou,Tsou,,23.5,120.75,tsou1248,tsu
+TuaregGhat,Tuareg (Ghat),,25,10.16666667,taha1241,thv
+Tucano,Tucano,,0.5,-69.16666667,tuca1252,tuo
+TukangBesi,Tukang Besi,,-5.5,123.5,tuka1247,bhq
+Tunen,Tunen,,4.75,10.66666667,tune1241,baz
+Tunica,Tunica,,32.66666667,-91,tuni1252,tun
+Turkish,Turkish,,39,35,nucl1301,tur
+Tuvaluan,Tuvaluan,,-8.5,179.1666667,tuva1244,tvl
+Tuvan,Tuvan,,52,95,tuvi1240,tyv
+Tuyuca,Tuyuca,,0.5,-70.08333333,tuyu1244,tue
+Tzeltal,Tzeltal,,16.83333333,-92.25,tzel1253,tzb
+Ulithian,Ulithian,,9.916666667,139.5833333,ulit1238,uli
+Ungarinjin,Ungarinjin,,-16.33333333,126,ngar1284,ung
+Ura,Ura,,-18.66666667,169.0833333,urav1235,uur
+Uradhi,Uradhi,,-11.91666667,142.4166667,urad1239,urf
+Vafsi,Vafsi,,34.66666667,49.91666667,vafs1240,vaf
+Vietnamese,Vietnamese,,10.5,106.5,viet1252,vie
+Waigali,Waigali,,35,71.25,waig1243,wbk
 Waorani,Waorani,,-1,-76.5,waor1240,auc
 Wappo,Wappo,,38.5,-122.5,wapp1239,wao
+Warekena,Warekena,,1.5,-67.5,guar1293,gae
+Wari,Wari',,-11.33333333,-65,wari1268,pav
+Warndarang,Warndarang,,-14.41666667,135.5833333,wand1263,wnd
 Washo,Washo,,39.25,-120,wash1253,was
-Konua,Konua,,-5.833333333,154.8333333,rapo1238,kyx
-Abun,Abun,,-0.5,132.5,abun1252,kgr
-Hatam,Hatam,,-1,134,hata1243,had
-Maybrat,Maybrat,,-1.333333333,132.5,maib1239,ayz
-Tehit,Tehit,,-1.5,132,tehi1237,kps
-Tidore,Tidore,,0.75,127.5,tido1248,tvo
-Sanuma,Sanuma,,4.5,-64.66666667,sanu1240,xsu
+Waura,Waura,,-13,-53,waur1244,wau
+Wembawemba,Wembawemba,,-35.33333333,144,,
+Wintu,Wintu,,41,-122.5,wint1259,wit
+Worora,Worora,,-15.66666667,124.6666667,woro1255,unp
+Xoo,Xoo,,-24,21.5,xooo1239,nmn
+Yagua,Yagua,,-3.5,-72,yagu1244,yad
+Yami,Yami,,22,121.5,yami1254,tao
+Yapese,Yapese,,9.583333333,138.1666667,yape1248,yap
+Yawelmani,Yawelmani,,35.41666667,-119,yoku1256,yok
+YessanMayo,Yessan-Mayo,,-4.166666667,142.5833333,yess1239,yss
+Yidiny,Yidiny,,-17,145.75,yidi1250,yii
+Yimas,Yimas,,-4.666666667,143.55,yima1243,yee
+Yingkarta,Yingkarta,,-25.16666667,114.8333333,ying1247,yia
+Yoruba,Yoruba,,8,4.333333333,yoru1245,yor
+Yucatec,Yucatec,,20,-89,yuca1254,yua
 Yuchi,Yuchi,,35.75,-86.75,yuch1247,yuc
 YukaghirKolyma,Yukaghir (Kolyma),,65.75,150.8333333,sout2750,yux
-Arabela,Arabela,,-2,-75.16666667,arab1268,arl
+Yukulta,Yukulta,,-17.33333333,138.8333333,gang1267,gcd
+Zulu,Zulu,,-30,30,zulu1248,zul
 Zuni,Zuni,,35.08333333,-108.8333333,zuni1245,zun

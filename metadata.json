@@ -1,6 +1,6 @@
 {
-    "url": "+++ add url here (maybe simply to github) +++",
-    "citation": "+++ add citation here +++",
+    "url": "https://github.com/cldf-datasets/tangclassifiers",
+    "citation": "Tang, Marc and One-Soon Her. 2019. Insights on the Greenberg-Sanches-Slobin Generalization: Quantitative typological data on classifiers and plural markers. Folia Linguistica, 53(2): 297-331. https://doi.org/10.1515/flin-2019-2013",
     "license": "CC-BY-4.0",
-    "title": "Structure Dataset on Chinese Dialects"
+    "title": "Data on sortal classifiers and morphosyntactic plural markers"
 }
