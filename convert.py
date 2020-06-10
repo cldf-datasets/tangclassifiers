@@ -1,7 +1,8 @@
-from pycldf import StructureDataset, Source
+from pycldf import StructureDataset, Source, Sources
 from csvw.dsv import UnicodeDictReader
 from pathlib import Path
 from clldutils.misc import slug
+from collections import defaultdict
 
 # set up raw data path (globally)
 raw_data = Path(__file__).parent.joinpath('raw')
@@ -16,6 +17,16 @@ parametertable = [
             'ID': 'morphosyntacticplural', 'Name': 'morphosyntactic plural', 'Description':
             'Does the language have morphosyntactic plural markers.'
             }]
+
+# add sources
+sources = Sources.from_file(raw_data.joinpath('sources.bib'))
+l2s = defaultdict(list)
+active_sources = []
+for src in sources.items():
+    if src.get('Wals_code'):
+        l2s[src['Wals_code']] += [src.id]
+        active_sources += [src]
+
 
 # fill tables with values
 formtable, languagetable = [], []
@@ -39,14 +50,14 @@ with UnicodeDictReader(raw_data.joinpath('GSSG_ListOfLanguages.csv'),
             "Value": row['sortal_classifier'],
             "Language_ID": lidx,
             "Parameter_ID": 'sortalclassifier',
-            "Source": ''
+            "Source": l2s.get(row['wals_code'], [])
             }]
         formtable += [{
             "ID": '{0}-{1}-{2}'.format(lidx, 'morphosyntacticplural', i),
             "Value": row['morphosyntactic_plural'],
             "Language_ID": lidx,
             "Parameter_ID": 'morphosyntacticplural',
-            "Source": ''
+            "Source": l2s.get(row['wals_code'], [])
             }]
 
 # we access our dataset that will be created now
@@ -54,16 +65,8 @@ ds = StructureDataset.in_dir('cldf')
 
 # we add sources here manually, they will be rendered in bibtex
 ds.add_sources(
-        Source('article', 'Dummy', 
-            author='Tang, Marc',
-            journal='+++',
-            volume="+++",
-            number="+++",
-            pages='+++',
-            year="2010",
-            title='+++',
-            doi='+++',
-        ))
+        *active_sources
+        )
 
 ds.add_component('ParameterTable')
 ds.add_component('LanguageTable')
