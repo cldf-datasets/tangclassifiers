@@ -1,5 +1,44 @@
 ---
-title: "Untitled"
+title: "Adding glottocode to bibtex"
 output: html_document
 ---
+
+Basic settings
+```{r}
+library(tidyverse)
+options(stringsAsFactors = F)
+```
+
+read original bib file and language file
+```{r}
+# read bib file
+bib <- readLines("old_bib/sources.bib")
+# remove previous WALS code annotations
+bib[str_detect(bib,"Wals_code")] <- ""
+# read language file
+langs <- read.csv("GSSG_ListOfLanguages.csv", sep = ";")
+str(langs)
+```
+
+add glottocodes
+```{r}
+for(i in 1:length(langs$source)){
+  if(str_detect(bib[str_detect(bib,langs$source[i])], "Wals_code") == FALSE){
+  bib[str_detect(bib,langs$source[i])] <- paste(bib[str_detect(bib,langs$source[i])],
+                                                " Wals_code = {", langs$wals_code[i], "},",
+                                                sep = "")
+  }
+  else{
+   bib[str_detect(bib,langs$source[i])] <- str_replace(bib[str_detect(bib,langs$source[i])], 
+                                                       "\\},",
+                                                       paste("; ",langs$wals_code[i],"},",
+                                                             sep = ""))
+  }
+}
+```
+
+Extract output
+```{r}
+writeLines(bib, "sources.bib")
+```
 
