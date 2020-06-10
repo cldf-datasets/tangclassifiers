@@ -4,6 +4,7 @@ import collections
 from pycldf import Sources
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from clldutils.misc import slug
+from clldutils.text import split_text
 
 
 class Dataset(BaseDataset):
@@ -42,7 +43,8 @@ class Dataset(BaseDataset):
         for src in sorted(
                 Sources.from_file(self.raw_dir / 'sources.bib').items(), key=lambda i: i.id):
             if src.get('Wals_code'):
-                l2s[src['Wals_code']].append(src.id)
+                for code in split_text(src['Wals_code'], ';', strip=True):
+                    l2s[code].append(src.id)
                 sources += [src]
 
         args.writer.cldf.add_sources(*sources)
