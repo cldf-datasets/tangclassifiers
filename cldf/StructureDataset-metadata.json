@@ -5,8 +5,39 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Tang, Marc and One-Soon Her. 2019. Insights on the Greenberg-Sanches-Slobin Generalization: Quantitative typological data on classifiers and plural markers. Folia Linguistica, 53(2): 297-331. https://doi.org/10.1515/flin-2019-2013",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://github.com/cldf-datasets/tangclassifiers",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
+    "dc:title": "Data on sortal classifiers and morphosyntactic plural markers",
+    "dcat:accessURL": "https://github.com/cldf-datasets/tangclassifiers",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/cldf-datasets/tangclassifiers",
+            "dc:created": "a93943f"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1-11-g1d138b3"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "tangclassifiers",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -194,6 +225,18 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Continent"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Genus"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "WALSCode"
                     }
                 ],
                 "primaryKey": [
