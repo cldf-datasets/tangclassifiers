@@ -4,7 +4,9 @@ Added by Marc based on Mattis' comments, these are the steps to generate the dat
 python -m virtualenv .venv2
 source .venv2/bin/activate
 pip install cldfbench
-cldfbench makecldf cldfbench_tangclassifiers.py
+cd Desktop/GitHub/tangclassifiers/
+pip install pyglottolog
+cldfbench makecldf cldfbench_tangclassifiers.py --glottolog ~/Desktop/GitHub/glottolog/
 cldfbench readme cldfbench_tangclassifiers.py
 ```
 
@@ -15,5 +17,10 @@ To check the data:
 cldf validate cldf/StructureDataset-metadata.json
 ```
 
+https://github.com/cldf/cookbook
+
 to read cldf datasets in R
 https://github.com/SimonGreenhill/rcldf 
+
+to test with CLLD locally
+http://127.0.0.1:6543/
