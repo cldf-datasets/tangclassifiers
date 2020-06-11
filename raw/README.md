@@ -14,3 +14,6 @@ To check the data:
 ```shell script
 cldf validate cldf/StructureDataset-metadata.json
 ```
+
+to read cldf datasets in R
+https://github.com/SimonGreenhill/rcldf 
