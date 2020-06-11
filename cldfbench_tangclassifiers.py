@@ -73,9 +73,9 @@ class Dataset(BaseDataset):
                 pid = param.replace('_', '')
                 args.writer.objects['ValueTable'].append({
                     "ID": '{}-{}'.format(lidx, pid),
-                    "Value": row['sortal_classifier'],
+                    "Value": row[param],
                     "Language_ID": lidx,
                     "Parameter_ID": pid,
-                    "Code_ID": '{}-{}'.format(pid, '1' if row['sortal_classifier'] == 'yes' else '0'),
+                    "Code_ID": '{}-{}'.format(pid, '1' if row[param] == 'yes' else '0'),
                     "Source": l2s.get(row['wals_code'], [])
                 })
