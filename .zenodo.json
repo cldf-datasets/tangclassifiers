@@ -10,7 +10,16 @@
             "name": "Marc Tang"
         }    
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "cldf-datasets"
