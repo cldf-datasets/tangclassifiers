@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/tangclassifiers",
-            "dc:created": "c610f06"
+            "dc:created": "105b8f2"
         },
         {
             "rdf:type": "prov:Entity",

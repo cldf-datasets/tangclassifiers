@@ -12,15 +12,15 @@ options(stringsAsFactors = F)
 read original bib file and language file
 ```{r}
 # read bib file
-bib <- readLines("old_bib/sources.bib")
+bib <- readLines("old_data/sources.bib")
 # remove previous WALS code annotations
 bib[str_detect(bib,"Wals_code")] <- ""
 # read language file
-langs <- read.csv("GSSG_ListOfLanguages.csv", sep = ";")
+langs <- read.csv("old_data/GSSG_ListOfLanguages.csv", sep = ";")
 str(langs)
 ```
 
-add glottocodes
+add wals codes or glottocodes
 ```{r}
 for(i in 1:length(langs$source)){
   if(str_detect(bib[str_detect(bib,langs$source[i])], "Wals_code") == FALSE){
@@ -37,8 +37,28 @@ for(i in 1:length(langs$source)){
 }
 ```
 
+change all bib refs to lower case to make them work in clld
+```{r}
+bib[str_detect(bib,"Wals_code")] <- gsub("(\\{.)","\\L\\1", bib[str_detect(bib,"Wals_code")],perl=TRUE)
+```
+
+
 Extract output
 ```{r}
 writeLines(bib, "sources.bib")
+```
+
+Also change everything to lower case in the master table
+```{r}
+langs$source <- gsub("(^.)","\\L\\1", langs$source, perl = TRUE)
+```
+
+export the file 
+```{r}
+write.csv2(langs, "GSSG_ListOfLanguages.csv", sep = ";")
+```
+
+```{r}
+
 ```
 
