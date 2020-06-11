@@ -23,20 +23,27 @@ class Dataset(BaseDataset):
             'LanguageTable',
             'Continent', 'Genus', 'WALSCode',  # we add more language metadata
         )
+        args.writer.cldf.add_component('CodeTable')
 
         args.writer.objects['ParameterTable'] = [
         {
             'ID': 'sortalclassifier',
             'Name': 'sortal classifier',
             'Description':
-            'Does the language have sortal classifiers, regardless of optional of obligatory.'
+            'Does the language have sortal classifiers, regardless of optional of obligatory?'
         },
         {
             'ID': 'morphosyntacticplural',
             'Name': 'morphosyntactic plural',
             'Description':
-            'Does the language have morphosyntactic plural markers.'
+            'Does the language have morphosyntactic plural markers?'
         }]
+        args.writer.objects['CodeTable'] = [
+            {'ID': 'sortalclassifier-1', 'Parameter_ID': 'sortalclassifier', 'Name': 'yes'},
+            {'ID': 'sortalclassifier-0', 'Parameter_ID': 'sortalclassifier', 'Name': 'no'},
+            {'ID': 'morphosyntacticplural-1', 'Parameter_ID': 'morphosyntacticplural', 'Name': 'yes'},
+            {'ID': 'morphosyntacticplural-0', 'Parameter_ID': 'morphosyntacticplural', 'Name': 'no'},
+        ]
 
         l2s = collections.defaultdict(list)
         sources = []
@@ -65,9 +72,10 @@ class Dataset(BaseDataset):
             for param in ['sortal_classifier', 'morphosyntactic_plural']:
                 pid = param.replace('_', '')
                 args.writer.objects['ValueTable'].append({
-                    "ID": '{0}-{1}'.format(lidx, pid),
+                    "ID": '{}-{}'.format(lidx, pid),
                     "Value": row['sortal_classifier'],
                     "Language_ID": lidx,
                     "Parameter_ID": pid,
+                    "Code_ID": '{}-{}'.format(pid, '1' if row['sortal_classifier'] == 'yes' else '0'),
                     "Source": l2s.get(row['wals_code'], [])
                 })
