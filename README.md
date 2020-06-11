@@ -8,3 +8,5 @@ Cite the source dataset as
 This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/cldf-datasets/tangclassifiers
+
+Create an app based on this data in the CLLD framework https://github.com/cldf/cookbook/blob/master/recipes/clld/README.md
